@@ -1,2 +1,2 @@
-web: node frontend/src/index.js
+web: node frontend/src/main.js
 init: FLASK_APP=backend/run.py
