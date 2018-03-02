@@ -1,2 +1,2 @@
-web: gunicorn gpb_app:app
-init: FLASK_APP=run.py
+web: node index.js
+pipinstall: pip install -r requirements.txt

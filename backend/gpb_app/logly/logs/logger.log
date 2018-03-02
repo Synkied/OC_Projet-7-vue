@@ -1396,3 +1396,11 @@ INFO 2018-03-02 13:11:17,049 { module name : _internal Line no : 88} 127.0.0.1 -
 INFO 2018-03-02 13:12:31,295 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:12:31] "GET /api/random HTTP/1.1" 200 -
 INFO 2018-03-02 13:12:57,743 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:12:57] "GET /api/random HTTP/1.1" 200 -
 INFO 2018-03-02 13:13:06,911 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:13:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:25:21,675 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 13:25:22,234 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 13:25:22,239 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 13:25:22,245 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 13:25:35,518 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:25:35] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:25:49,324 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:25:49] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:25:56,447 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:25:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:26:00,360 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:26:00] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
