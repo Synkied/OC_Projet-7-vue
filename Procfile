@@ -1,2 +1,2 @@
-web: gunicorn --pythonpath backend gpb_app.app
+web: node server.js
 init: FLASK_APP=backend/run.py
