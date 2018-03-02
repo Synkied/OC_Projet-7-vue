@@ -1404,3 +1404,19 @@ INFO 2018-03-02 13:25:35,518 { module name : _internal Line no : 88} 127.0.0.1 -
 INFO 2018-03-02 13:25:49,324 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:25:49] "GET /api/random HTTP/1.1" 200 -
 INFO 2018-03-02 13:25:56,447 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:25:56] "GET /api/random HTTP/1.1" 200 -
 INFO 2018-03-02 13:26:00,360 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:26:00] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 14:19:14,176 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 14:19:14,706 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 14:19:14,711 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 14:19:14,717 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 14:19:19,019 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:19:19] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 14:19:23,796 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:19:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:45,223 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:45] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:46,269 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:46] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:46,272 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:46] "GET /static/css/app.69954bbcf8be67a9dd30d552e3c13fe9.css HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:46,290 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:46] "GET /static/js/manifest.bc9f1f360392cfaffad0.js HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:46,357 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:46] "GET /static/js/vendor.1b48e5e6714d15b3983d.js HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:46,376 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:46] "GET /static/js/app.604ce7ee5b646015c915.js HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:47,382 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:47] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:47,403 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:47] "GET /static/js/0.7faa8761221af157f0b0.js HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:47,460 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:47] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 14:23:51,014 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 14:23:51] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
