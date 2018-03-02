@@ -10,6 +10,8 @@
   <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5">Envoyer</button>
   </fieldset>
 
+  <rise-loader :loading="loading"></rise-loader>
+
   <!-- Map and wikimedia text display -->
   <template v-if="status === 'OK'">
       <div class="card">
@@ -41,6 +43,7 @@
 
 <script>
 import axios from 'axios'
+import RiseLoader from 'vue-spinner/src/RiseLoader.vue'
 
 var messages = {
   ok: 'Écoute mon petit, voici ce que je sais sur cet endroit et ses environs :',
@@ -60,25 +63,30 @@ export default {
       wikimedia_txt: '',
       wiki_url: '',
       status: '',
-      messages: messages
+      messages: messages,
+      loading: false
     }
   },
   methods: {
     lookupGmapsWikiAPI: function () {
       var thisVm = this
       const path = 'http://localhost:5000/question/' + encodeURI(thisVm.user_query)
-      axios.get(path)
-        .then(function (response) {
+      axios.get(path).then(response => {
+        if (response.data) {
           console.log(response.data) // ex.: { user: 'Your User'}
           thisVm.gmaps_iframe = response.data.iframe_map
           thisVm.wikimedia_txt = response.data.extract
           thisVm.wiki_url = response.data.url
           thisVm.status = response.data.status
-        })
+        }
+      })
         .catch(function (error) {
           console.log(error)
         })
     }
+  },
+  components: {
+    'rise-loader': RiseLoader
   }
 }
 </script>

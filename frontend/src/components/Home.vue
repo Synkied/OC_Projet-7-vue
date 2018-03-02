@@ -4,14 +4,12 @@
     <p>Home page</p>
     <p>Random number from backend: {{ randomNumber }}</p>
     <button @click="getRandom">New random number</button>
-    <rise-loader></rise-loader>
     <gmaps-wiki></gmaps-wiki>
   </div>
 </template>
 
 <script>
 import axios from 'axios'
-import RiseLoader from 'vue-spinner/src/RiseLoader.vue'
 import GmapsWiki from './GmapsWiki'
 
 export default {
@@ -45,7 +43,6 @@ export default {
     this.getRandom()
   },
   components: {
-    'rise-loader': RiseLoader,
     'gmaps-wiki': GmapsWiki
   }
 }
