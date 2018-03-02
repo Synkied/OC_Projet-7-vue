@@ -1,0 +1,1398 @@
+INFO 2018-03-01 16:42:34,262 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 16:42:34,699 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 16:42:34,704 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 16:42:34,711 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 17:02:07,465 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 17:02:07,913 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 17:02:07,918 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 17:02:07,926 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 17:45:49,783 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 17:45:50,284 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 17:45:50,290 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 17:45:50,298 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 17:45:51,470 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:51] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 17:45:51,485 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:51] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:45:51,654 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:51] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:45:51,657 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:51] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:45:51,658 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:51] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:45:58,932 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:45:58] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 17:46:12,974 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:46:12] "GET /question/nsjsdj HTTP/1.1" 200 -
+INFO 2018-03-01 17:48:55,969 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:48:55] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:48:56,074 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:48:56] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:48:56,079 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:48:56] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:48:56,081 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:48:56] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:08,900 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:08] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:49:09,079 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:09] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:09,080 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:09] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:09,082 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:09] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:49:38,748 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:38] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:49:38,870 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:38] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:38,872 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:38] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:38,873 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:38] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:49:43,831 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:43] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:49:43,939 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:43] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:43,940 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:43] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:49:43,942 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:49:43] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:16,749 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:16] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:16,934 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:16] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:16,936 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:16] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:16,938 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:16] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:21,414 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:21] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:21,509 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:21] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:21,510 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:21] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:21,512 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:21] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:38,428 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:38] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 17:51:38,554 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:38] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:38,555 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:38] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 17:51:38,557 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 17:51:38] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 18:10:44,935 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:44] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:10:45,177 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:45] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:10:45,179 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:45] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:10:45,181 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:45] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:10:53,855 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:53] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:10:53,942 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:53] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:10:53,944 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:53] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:10:53,945 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:10:53] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 18:11:31,871 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:11:31] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:11:32,045 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:11:32] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:11:32,047 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:11:32] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:11:32,048 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:11:32] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:11:34,539 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:11:34] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-01 18:12:32,960 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:32] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:12:33,218 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:33] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:12:33,220 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:33] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:12:33,221 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:33] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:12:50,304 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:50] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:12:50,440 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:50] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:12:50,442 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:50] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:12:50,444 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:12:50] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:13:00,903 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:13:01,006 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:01] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 18:13:01,008 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:01] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:13:01,010 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:01] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 18:13:02,123 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:02] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 18:13:02,219 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:02] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 18:13:02,221 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:02] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 18:13:02,226 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 18:13:02] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:42,474 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:42] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:42,568 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:42] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:42,570 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:42] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:42,575 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:42] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:49,667 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:27:49,740 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:27:49,745 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:27:49,746 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:27:49,748 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 19:27:49,752 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:49] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 19:27:52,717 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:27:52] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-01 19:29:44,231 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:29:44,334 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:29:44,335 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:29:44,337 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:29:44,584 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:29:44,712 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:29:44,714 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:29:44,716 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:29:44] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:38:59,439 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:38:59] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:38:59,543 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:38:59] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:38:59,544 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:38:59] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:38:59,546 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:38:59] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:24,541 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:24] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:40:24,637 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:24] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:24,639 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:24] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:24,640 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:24] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:26,932 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:26] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 19:40:41,497 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:41] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 19:40:41,579 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:41] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:41,580 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:41] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:41,582 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:41] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:43,387 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:43] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 19:40:43,388 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:43] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 19:40:54,388 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:54] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 19:40:54,466 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:54] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:54,467 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:54] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:54,469 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:54] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:40:56,733 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:56] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 19:40:57,333 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:40:57] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 19:41:01,995 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:41:01] "GET /question/sdfs HTTP/1.1" 200 -
+INFO 2018-03-01 19:43:58,018 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:43:58] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 19:43:58,177 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:43:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:43:58,178 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:43:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:43:58,181 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:43:58] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 19:44:03,871 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:44:03] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-01 19:48:11,685 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:48:11] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 19:48:11,801 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:48:11] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 19:48:11,812 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:48:11] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 19:48:11,814 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:48:11] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 19:48:16,615 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 19:48:16] "GET /question/qsdqs HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:23,898 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:23] "GET /?user_query= HTTP/1.1" 500 -
+INFO 2018-03-01 20:07:23,994 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:24,032 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:24] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:24,047 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:24] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:24,187 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:24] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:24,201 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 20:07:24,333 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:07:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 20:08:14,801 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:14] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:08:14,884 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:14] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:08:14,886 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:14] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:08:14,887 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:14] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:08:14,888 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:14] "GET /static/js/fr_messages.js HTTP/1.1" 404 -
+INFO 2018-03-01 20:08:15,099 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:15] "GET /static/js/fr_messages.js HTTP/1.1" 404 -
+INFO 2018-03-01 20:08:19,421 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:08:19] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:27:58,465 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:27:58,567 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:27:58,568 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:27:58,571 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /static/js/fr_messages.js HTTP/1.1" 404 -
+INFO 2018-03-01 20:27:58,573 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:27:58,858 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:27:58] "GET /static/js/fr_messages.js HTTP/1.1" 404 -
+INFO 2018-03-01 20:28:03,223 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:03] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:28:24,075 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:24] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:28:24,161 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:24] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:24,162 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:24] "GET /static/js/fr_messages.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:28:24,164 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:24] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:24,166 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:24] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:26,234 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:26] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:28:26,309 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:26,310 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:26,312 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:26] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:28:26,313 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:28:26] "GET /static/js/fr_messages.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:18,660 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:44:18,661 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 20:44:18,764 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:18,766 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:18,768 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:18,769 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:18] "GET /static/js/fr_messages.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:44:25,919 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:25] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:44:26,009 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:26,010 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:26,018 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:26] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:44:26,020 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:44:26] "GET /static/js/fr_messages.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:14,750 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:14] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:14,827 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:14] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:14,828 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:14] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:14,830 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:14] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:14,836 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:14] "GET /static/js/fr_messages.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:23,317 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:23] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:23,404 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:23] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:23,406 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:23] "GET /static/js/fr_messages.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:23,408 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:23] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:23,410 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:23] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:34,053 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 20:45:34,595 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 20:45:34,600 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 20:45:34,610 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 20:45:34,860 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:34] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:34,972 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:34] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:34,973 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:34] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:34,975 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:34] "GET /static/js/fr_messages.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:34,977 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:34] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:49,710 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:49] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:45:49,847 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:49] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:49,848 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:49] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:49,853 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:49] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:45:49,854 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:45:49] "GET /static/js/fr_messages.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:17,091 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:17] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:46:17,170 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:17] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:17,171 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:17] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:17,173 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:17] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:46:17,175 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:17] "GET /static/js/fr_messages.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:26,408 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:26] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:46:26,523 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:26,525 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:26,527 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:26] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:46:27,996 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:27] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 20:46:28,120 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:28] "GET /question/ HTTP/1.1" 404 -
+INFO 2018-03-01 20:46:31,109 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:31] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:46:31,827 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:46:31] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:01,626 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:01] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:01,713 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:01] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:01,715 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:01] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:01,716 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:01] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:04,710 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:04] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:09,003 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:09] "GET /question/qsdsqd HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:20,216 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:20] "GET /question/qsdsqdsdfsgdsdsgs HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:23,641 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:23] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:48:23,715 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:23] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:23,717 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:23] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:23,718 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:23] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:48:26,335 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:48:26] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:15,811 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:15] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:15,943 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:15] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:15,945 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:15] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:15,947 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:15] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:18,293 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:18] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:38,166 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:38] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:38,261 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:38] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:38,263 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:38] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:38,264 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:38] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:40,421 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:40] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:51,902 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:51] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:52,038 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:52] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:52,040 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:52] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:52,041 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:52] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:49:53,624 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:53] "GET /question/adresse HTTP/1.1" 200 -
+INFO 2018-03-01 20:49:59,640 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:49:59] "GET /question/qsdsqf HTTP/1.1" 200 -
+INFO 2018-03-01 20:50:10,163 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:50:10] "GET /question/galerie%20orsay%20paris HTTP/1.1" 200 -
+INFO 2018-03-01 20:50:32,396 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:50:32] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:50:50,358 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:50:50] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:50:50,788 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:50:50] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:50:51,232 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:50:51] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:51:14,062 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:14] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:51:14,155 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:14] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:14,157 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:14] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:14,159 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:14] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:18,974 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:18] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:51:43,513 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:43] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:51:43,601 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:43] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:43,603 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:43] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:43,604 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:43] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:51:50,177 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:51:50] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:52:06,601 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:06] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:52:06,729 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:06] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:06,731 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:06] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:06,733 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:06] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:10,396 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:10] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:52:51,252 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:51] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:52:51,381 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:51] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:51,383 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:51] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:51,385 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:51] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:52:55,450 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:52:55] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:54:06,595 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-01 20:54:06,626 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 20:54:07,138 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 20:54:07,149 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 20:54:07,170 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 20:54:20,542 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-01 20:54:20,572 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 20:54:21,084 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 20:54:21,089 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 20:54:21,102 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 20:54:22,894 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:22] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:54:23,023 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:23] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:54:23,025 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:23] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:54:23,026 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:23] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:54:23,181 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-01 20:54:23,213 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 20:54:23,737 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 20:54:23,742 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 20:54:23,750 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 20:54:27,779 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:27] "GET /question/chez%20tim HTTP/1.1" 200 -
+INFO 2018-03-01 20:54:52,089 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:52] "GET /question/prout HTTP/1.1" 200 -
+INFO 2018-03-01 20:54:52,498 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:54:52] "GET /question/prout HTTP/1.1" 200 -
+INFO 2018-03-01 20:55:10,604 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:10] "GET /question/caca HTTP/1.1" 200 -
+INFO 2018-03-01 20:55:11,041 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:11] "GET /question/caca HTTP/1.1" 200 -
+INFO 2018-03-01 20:55:17,859 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:17] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 20:55:49,303 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:49] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:55:49,380 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:49] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:55:49,382 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:49] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:55:49,383 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:49] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:55:53,794 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:55:53] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 20:56:57,911 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:56:57] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:56:58,084 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:56:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:56:58,085 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:56:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:56:58,087 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:56:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:57:00,734 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:00] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 20:57:21,699 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:21] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 20:57:22,613 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:22] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 20:57:22,708 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:22] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 20:57:22,710 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:22] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 20:57:22,712 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:22] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 20:57:25,683 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 20:57:25] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 21:02:52,844 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 21:02:52] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 21:02:53,290 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 21:02:53] "GET /question/tatu HTTP/1.1" 200 -
+INFO 2018-03-01 22:49:21,793 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:21] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 22:49:21,815 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:21] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 22:49:21,913 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:21] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 22:49:21,984 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:21] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 22:49:22,058 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:22] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 22:49:31,621 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:31] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 22:49:31,809 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:31] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 22:49:31,811 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:31] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 22:49:31,813 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:49:31] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 22:50:26,140 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:50:26] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 22:50:26,346 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:50:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 22:50:26,348 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:50:26] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 22:50:26,355 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 22:50:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:06:12,501 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:06:12] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:06:12,502 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:06:12] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 23:06:12,690 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:06:12] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:06:12,695 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:06:12] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:06:12,697 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:06:12] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:07:29,534 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:07:29] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:07:29,619 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:07:29] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:07:29,621 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:07:29] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:07:29,622 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:07:29] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:26,614 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:26] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:09:26,746 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:26,748 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:26,750 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:26] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:45,514 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:45] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:09:45,591 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:45] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:45,593 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:45] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:45,594 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:45] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:58,065 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:58] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:09:58,142 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:58,143 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:09:58,145 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:09:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:03,264 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:12:03,337 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:03,339 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:03,340 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:12:03,341 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:03,640 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:03] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:12:06,035 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:12:06,109 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:06,110 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:06,112 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:12:06,113 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:12:06,317 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:12:06] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:19:04,166 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:19:04,367 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:19:04,369 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:19:04,414 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:19:04,415 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:19:04,680 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:19:04] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:20:36,958 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:36] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:20:37,064 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:37] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:20:37,107 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:37] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:20:37,109 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:37] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:20:37,112 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:37] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:20:37,383 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:20:37] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:23:20,492 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:20,580 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:20,582 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:20,582 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:23:20,584 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:20,829 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:20,927 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:20,928 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:20,930 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:20,931 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:20] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:23:37,978 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:37] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:38,054 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:38] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:38,056 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:38] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:38,057 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:38] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:23:38,059 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:38] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:52,075 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:52] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:23:52,150 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:52] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:52,190 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:52] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:23:52,191 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:52] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:23:52,193 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:23:52] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:26:58,175 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:26:58] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:26:58,259 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:26:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:26:58,301 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:26:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:26:58,302 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:26:58] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:26:58,305 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:26:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:04,116 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:27:04,578 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:27:04,583 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:27:04,591 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:27:04,713 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:04] "GET /?user_query= HTTP/1.1" 200 -
+INFO 2018-03-01 23:27:04,807 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:04] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:04,809 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:04] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:04,810 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:04] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:04,829 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:04] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:27:23,344 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:23] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:27:23,447 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:23] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:27:48,481 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:48] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:27:48,560 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:48] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:27:50,309 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:50] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:27:59,412 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:27:59,555 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:59,598 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:27:59,599 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:27:59,601 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:27:59,828 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:27:59] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:10,997 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:10] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:11,117 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:11] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:11,119 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:11] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:11,120 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:11] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:11,121 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:11] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:11,428 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:11] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:22,042 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:22,138 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:22,139 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:22,140 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:22,142 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:22,381 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:22] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:33,252 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:33,353 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:33,355 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:28:33,356 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:28:33,358 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:28:33,865 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:28:33] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:30:32,570 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:32,680 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:30:32,681 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:30:32,682 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:30:32,684 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:32,910 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:32] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:30:34,460 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:34,548 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:34,550 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:34,554 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:30:34,555 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:30:34,719 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:30:34] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:11,328 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:11,443 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:11,445 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:11,449 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:11,450 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:11,720 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:11] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:16,144 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:16,266 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:16,269 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:16,273 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:16,274 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:16,587 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:16] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:17,244 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:17,328 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:17,330 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:17,335 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:31:17,337 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:31:17,546 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:31:17] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:33:21,646 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:21] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:33:21,757 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:21] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:33:21,759 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:21] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:33:21,763 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:21] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:33:21,764 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:21] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:33:22,002 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:33:22] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:16,947 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:16] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:17,143 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:17] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:17,145 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:17] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:17,146 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:17] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:17,148 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:17] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:17,440 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:17] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:18,503 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:18,656 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:18,658 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:18,659 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:18,660 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:18,845 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:18] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:19,178 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:19,263 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:19,265 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:19,267 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:19,271 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:19,505 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:19] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:45,779 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:45] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:46,013 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:46] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:46,026 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:46] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:35:46,027 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:46] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:46,029 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:46] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:46,292 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:46] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:47,729 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:47,810 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:47,812 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:47,816 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:35:47,817 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:35:47,992 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:35:47] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:36:08,015 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:36:08,181 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:36:08,182 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:36:08,184 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:36:08,186 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:36:08,427 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:36:08] "GET /dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:25,555 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:25] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:37:25,785 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:25] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:25,787 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:25] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:25,788 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:25] "GET /gpb_app/static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:25,789 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:25] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:26,013 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:26] "GET /gpb_app/static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:57,692 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:57] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:37:57,787 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:57] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:57,789 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:57] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:57,790 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:57] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:57,791 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:57] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:58,055 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:58] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:59,279 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:37:59,354 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:59,355 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:59,356 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:37:59,358 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:37:59,562 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:37:59] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:38:10,006 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:10] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:38:10,102 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:10] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:10,104 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:10] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:10,105 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:10] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:10,438 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:10] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:18,678 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:18] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:38:18,797 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:18] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:18,798 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:18] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:18,799 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:18] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:38:18,801 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:18] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:38:19,023 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:38:19] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:39:54,608 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:39:54,713 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:39:54,714 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:39:54,715 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:39:54,717 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:39:54,958 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:39:54] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:45:45,032 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:45:45] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:45:45,175 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:45:45] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:45:45,177 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:45:45] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:45:45,179 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:45:45] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:45:45,424 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:45:45] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:46:51,570 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:46:51,574 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-01 23:46:51,657 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:46:51,658 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:46:51,660 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:46:51,661 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:46:51,917 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:46:51] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:49:09,766 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:09] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:49:09,870 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:09] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:49:09,872 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:09] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:49:09,876 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:09] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:49:09,877 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:09] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:49:10,197 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:10] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:49:14,566 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:49:15,014 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:49:15,019 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:49:15,027 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:49:15,244 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:49:15,344 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:49:15,353 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:49:15,355 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:49:15,356 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:49:15,579 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:49:15] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:50:22,251 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:22] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:22,349 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:22] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:22,350 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:22] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:22,352 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:22] "GET /static/dist/build.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:22,354 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:22] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:29,115 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:29] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:29,320 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:29] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:29,322 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:29] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:29,323 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:29] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:29,325 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:29] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:35,778 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:35] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:35,898 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:35] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:35,900 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:35] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:35,902 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:35] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:35,904 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:35] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:54,303 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:54] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:54,444 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:54] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:54,446 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:54] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:54,447 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:54] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:54,449 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:54] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:55,503 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:55] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:55,648 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:55] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:55,649 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:55] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:55,798 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:55] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:55,800 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:55] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:58,081 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:58] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:58,170 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:58,172 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:58,173 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:58] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:58,175 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:59,204 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:59] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:50:59,323 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:59] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:59,325 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:59] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:59,327 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:59] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:50:59,328 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:50:59] "GET /static/dist/build.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:51:00,784 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:51:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:51:00,858 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:51:00] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:51:00,861 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:51:00] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:51:00,865 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:51:00] "GET /static/dist/build.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:51:00,868 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:51:00] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:52:47,910 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:47] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:52:48,147 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:48] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:52:48,149 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:48] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:52:48,157 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:48] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:52:48,158 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:48] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:52:48,478 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:52:48] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:00,844 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:00,949 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:00] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:00,950 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:00] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:00,951 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:00] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:00,953 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:00] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:01,176 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:01] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:09,144 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:09,283 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:09,284 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:09,286 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:09,288 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:09,711 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:09] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:41,949 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:41] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:42,060 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:42] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:42,061 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:42] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:42,062 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:42] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:42,064 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:42] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:42,309 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:42] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:44,600 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:44,678 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:44,679 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:44,680 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:44,682 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:44,877 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:44] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:55,319 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:55] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:55,414 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:55] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:55,416 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:55] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:55,417 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:55] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:55,719 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:55] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:58,884 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:58] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:53:58,979 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:58,980 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:58] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:58,981 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:58] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:53:58,983 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:58] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:53:59,217 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:53:59] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:11,538 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:11,625 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:11,631 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:11,633 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:11,634 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:11,932 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:11] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:13,465 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:13,551 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:13,552 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:13,553 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:13,555 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:13,905 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:13] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:22,055 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:22,192 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:22,193 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:22,195 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:22,197 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:22,504 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:22] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:23,149 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:23,222 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:23,223 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:23,225 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:55:23,226 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:23,452 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:23] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:24,303 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:24,450 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:24,451 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:24,452 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:55:24,454 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:55:24,722 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:55:24] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:58:13,759 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-01 23:58:13,792 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:58:14,280 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:58:14,285 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:58:14,292 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:58:22,622 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:22] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:22,853 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:22] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:58:22,863 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:22] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:58:22,864 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:22] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:58:22,866 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:22] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:58:23,098 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:23] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:58:44,189 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-01 23:58:44,218 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:58:44,741 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:58:44,747 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:58:44,754 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:58:45,049 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET / HTTP/1.1" 500 -
+INFO 2018-03-01 23:58:45,177 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:45,219 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:45,235 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:45,297 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:45,386 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2018-03-01 23:58:45,656 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:58:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:19,442 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-01 23:59:19,484 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:59:20,025 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:59:20,030 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:59:20,038 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:59:20,280 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET / HTTP/1.1" 500 -
+INFO 2018-03-01 23:59:20,375 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:20,376 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:20,377 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:20,504 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:20,572 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:24,195 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-01 23:59:24,234 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:59:24,785 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:59:24,789 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:59:24,796 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:59:24,886 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:24] "GET / HTTP/1.1" 500 -
+INFO 2018-03-01 23:59:25,073 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:25] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:25,074 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:25] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:25,076 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:25] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:25,189 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:25,310 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:28,944 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-01 23:59:28,980 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-01 23:59:29,510 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-01 23:59:29,515 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-01 23:59:29,522 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-01 23:59:29,551 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET / HTTP/1.1" 200 -
+INFO 2018-03-01 23:59:29,646 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-01 23:59:29,656 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:59:29,657 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-01 23:59:29,659 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-01 23:59:29,999 { module name : _internal Line no : 88} 127.0.0.1 - - [01/Mar/2018 23:59:29] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:00:15,887 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-02 00:00:15,925 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 00:00:16,450 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 00:00:16,457 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 00:00:16,467 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 00:00:16,508 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 00:00:16,626 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 00:00:16,627 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:00:16,628 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:00:16,814 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 00:00:16,898 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:16] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2018-03-02 00:00:17,295 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:00:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 00:01:39,823 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-02 00:01:39,856 { module name : _internal Line no : 88}  * Restarting with stat
+INFO 2018-03-02 00:03:18,272 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 00:03:18,683 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 00:03:18,688 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 00:03:18,695 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 00:03:20,156 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 00:03:20,213 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 00:03:20,214 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:03:20,216 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:03:20,361 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 00:03:20,438 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2018-03-02 00:03:20,690 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:03:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 00:04:34,992 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\gpb_app\\views.py', reloading
+INFO 2018-03-02 00:04:35,038 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 00:04:35,585 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 00:04:35,591 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 00:04:35,598 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 00:04:39,073 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:04:39,082 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-02 00:04:39,205 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:04:39,210 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:04:39,212 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:04:39,213 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:04:39,525 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:04:39] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:05,964 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:05] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:06:06,080 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:06] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:06:06,081 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:06] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:06,082 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:06] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:06,084 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:06] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:06:06,397 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:06] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:37,656 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:37] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:06:37,758 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:37] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:06:37,760 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:37] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:06:37,761 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:37] "GET /static/js/vue.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:37,762 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:37] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:06:38,070 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:06:38] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:07:44,629 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:44] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:07:44,726 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:44] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:07:44,729 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:44] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:07:44,731 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:44] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:07:44,733 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:44] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:07:45,008 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:45] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:07:51,040 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:07:51,160 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:07:51,162 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:07:51,163 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:07:51,165 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:07:51,505 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:07:51] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:08:00,424 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:00,541 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:08:00,543 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:08:00,544 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:08:00,546 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:00,997 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:00] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:08:19,432 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:19,532 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET /static/css/css.css HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:19,533 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET /static/js/vue.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:19,538 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:08:19,540 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:08:19,815 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:19] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:08:23,133 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:08:23] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 00:10:00,171 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:10:00,286 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:00,288 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:10:00,289 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:00,291 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:00,515 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:00] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:10:17,478 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:10:17,586 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:17,588 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:17,589 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:10:17,590 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:17,956 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:17] "GET /static/dist/build.js HTTP/1.1" 404 -
+INFO 2018-03-02 00:10:50,061 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:50] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:10:50,139 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:50] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:50,140 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:50] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:50,142 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:50] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:59,869 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:59] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:10:59,945 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:59] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:59,947 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:59] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:10:59,949 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:10:59] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:05,923 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:05] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:11:06,026 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:06] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:06,028 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:06] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:06,029 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:06] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:26,714 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:26] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:11:26,827 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:26] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:26,828 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:26] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:26,830 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:26] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:30,633 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:30] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 00:11:51,693 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:51] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:11:51,814 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:51] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:51,815 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:51] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:11:51,818 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:11:51] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:13:20,124 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:13:20] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:13:20,220 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:13:20] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:13:20,222 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:13:20] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:13:20,224 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:13:20] "GET /static/js/app.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:14:37,042 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:37] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:14:37,193 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:37] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:14:37,194 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:37] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:14:37,196 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:37] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:14:58,173 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:58] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:14:58,312 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:58] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:14:58,313 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:58] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:14:58,315 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:14:58] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:04,508 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:04] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:04,590 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:04] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:04,592 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:04] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:04,594 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:04] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:19,513 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:19] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:19,608 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:19] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:19,609 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:19] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:19,611 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:19] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:30,898 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:30] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:30,967 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:30] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:30,969 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:30] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:30,971 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:30] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:38,551 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:38] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:15:38,621 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:38] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:38,623 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:38] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:15:38,624 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:15:38] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:17:15,205 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:15] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:17:15,419 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:15] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:17:15,421 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:15] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:17:15,423 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:15] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:17:20,763 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:20] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 00:17:20,873 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:20] "GET /static/css/css.css HTTP/1.1" 304 -
+INFO 2018-03-02 00:17:20,876 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:20] "GET /static/js/vue.js HTTP/1.1" 304 -
+INFO 2018-03-02 00:17:20,878 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:20] "GET /static/js/app.js HTTP/1.1" 200 -
+INFO 2018-03-02 00:17:26,169 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 00:17:26] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:38,380 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 09:56:38,851 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 09:56:38,857 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 09:56:38,863 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 09:56:42,438 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 09:56:42,493 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /robots.txt HTTP/1.1" 404 -
+INFO 2018-03-02 09:56:42,541 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:42,592 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:42,630 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:42,691 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:42,696 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:42,783 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:55,378 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 09:56:55,421 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 09:56:56,001 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 09:56:56,010 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 09:56:56,022 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 09:56:56,169 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 09:56:56,270 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:56,271 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:56,273 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:56,396 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:56:56,476 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:56:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:24,824 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 09:57:24,859 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 09:57:25,363 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 09:57:25,368 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 09:57:25,375 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 09:57:39,759 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 09:57:39,791 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 09:57:40,274 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 09:57:40,278 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 09:57:40,285 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 09:57:42,130 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 09:57:42,186 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:42,187 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:42,189 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:42,319 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:42,399 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:43,405 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 09:57:43,485 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:43,486 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:43,487 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:43,565 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:43,649 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 09:57:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 09:57:46,500 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 09:57:46,551 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 09:57:47,079 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 09:57:47,087 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 09:57:47,104 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:00:22,141 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 10:00:22,193 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:22,195 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:22,196 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:22,307 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:22,396 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:23,415 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 10:00:23,497 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:23,498 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:23,499 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:23,591 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:23,696 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:00:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:00:39,549 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:00:39,581 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:00:40,049 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:00:40,055 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:00:40,067 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:00:50,341 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:00:50,373 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:00:50,808 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:00:50,813 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:00:50,819 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:01:03,017 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 10:01:03,070 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,071 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,073 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,155 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 10:01:03,197 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:01:03,764 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:01:03,769 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:01:03,781 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:01:03,799 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,836 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET / HTTP/1.1" 500 -
+INFO 2018-03-02 10:01:03,910 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,911 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:03,912 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:03] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:04,011 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:04,094 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,158 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 10:01:17,198 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:01:17,679 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:01:17,683 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:01:17,690 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:01:17,732 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,780 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,796 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,853 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,870 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,910 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:01:17,944 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:17] "GET /favicon.ico HTTP/1.1" 404 -
+INFO 2018-03-02 10:01:18,034 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:01:18] "GET /favicon.ico HTTP/1.1" 404 -
+INFO 2018-03-02 10:02:12,129 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:02:12,157 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:02:12,625 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:02:12,630 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:02:12,637 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:02:13,690 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:02:13,725 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:02:14,169 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:02:14,174 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:02:14,181 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:02:15,246 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:02:15,287 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:02:15,931 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:02:15,938 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:02:15,960 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:02:16,775 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:02:16,909 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:16,910 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:16,912 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:16,914 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:16,988 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:16] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:19,018 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:19] "GET /about HTTP/1.1" 200 -
+INFO 2018-03-02 10:02:19,183 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:19] "GET /static/js/2.f80f9457d68f8c279a2d.js HTTP/1.1" 200 -
+INFO 2018-03-02 10:02:24,248 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:02:24,282 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:02:24,736 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:02:24,741 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:02:24,747 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:02:24,993 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:24] "GET /about HTTP/1.1" 404 -
+INFO 2018-03-02 10:02:29,900 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:02:29,932 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:02:30,424 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:02:30,430 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:02:30,446 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:02:30,775 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:30] "GET /about HTTP/1.1" 200 -
+INFO 2018-03-02 10:02:30,834 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:30] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:30,836 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:30] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:30,837 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:30] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:30,839 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:30] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:02:31,001 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:02:31] "GET /static/js/2.f80f9457d68f8c279a2d.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:23,861 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:23] "GET /about HTTP/1.1" 200 -
+INFO 2018-03-02 10:03:23,978 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:23] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:23,980 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:23] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:23,981 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:23] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:23,983 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:23] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:24,072 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:24] "GET /static/js/2.f80f9457d68f8c279a2d.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:25,328 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:25] "GET /aboutsqdq HTTP/1.1" 200 -
+INFO 2018-03-02 10:03:57,281 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /about HTTP/1.1" 200 -
+INFO 2018-03-02 10:03:57,635 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:57,637 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:57,638 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:57,640 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:57,870 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:57] "GET /static/js/2.f80f9457d68f8c279a2d.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:03:58,967 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:03:58] "GET /qsd HTTP/1.1" 200 -
+INFO 2018-03-02 10:04:19,312 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:19] "GET /qsdqd HTTP/1.1" 200 -
+INFO 2018-03-02 10:04:53,728 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:53] "GET /qsdqd HTTP/1.1" 200 -
+INFO 2018-03-02 10:04:53,784 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:53] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:53,786 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:53] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:53,788 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:53] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:53,790 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:53] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:54,841 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:54] "GET /qsdqd HTTP/1.1" 200 -
+INFO 2018-03-02 10:04:54,894 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:54] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:54,896 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:54] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:54,898 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:54] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:04:54,900 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:04:54] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:05:36,380 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:05:36,408 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:05:36,849 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:05:36,854 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:05:36,861 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:05:38,936 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:05:38,962 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:05:39,401 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:05:39,406 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:05:39,413 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:05:49,683 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:05:49,720 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:05:50,194 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:05:50,199 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:05:50,206 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:05:58,443 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:05:58,473 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:05:58,942 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:05:58,948 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:05:58,965 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:06:19,442 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:06:19] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:23:04,238 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:04] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:23:05,094 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:23:05,152 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:23:05,153 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:23:05,155 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:23:05,157 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:23:05,244 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:23:05] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:25:17,111 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:25:17] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:23,800 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:23,992 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:23] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:24,260 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:24,325 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:27:24,327 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:27:24,329 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:27:24,576 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:27:24,603 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:24] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:27:30,969 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:30] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:30,970 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:30] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:30,972 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:30] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:27:54,062 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:27:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:35,685 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:30:36,107 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:30:36,112 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:30:36,119 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:30:36,269 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:36] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:41,543 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:41,589 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:30:41,591 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:30:41,593 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:30:41,595 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:30:41,630 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:41,732 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:41] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:30:42,084 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:42,464 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:30:42,886 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:30:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:31:34,624 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:31:34,660 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:31:35,137 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:31:35,142 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:31:35,150 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:31:40,329 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 10:31:40,357 { module name : _internal Line no : 88}  * Restarting with stat
+INFO 2018-03-02 10:32:13,410 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:32:13,943 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:32:13,947 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:32:13,953 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:32:14,133 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:14,161 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:14,223 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:32:14,225 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:32:14,226 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:32:14,228 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:32:14,438 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:14] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:32:16,512 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:17,339 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:17] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:17,752 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:17] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:17,986 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:17] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:18,165 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:18] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:24,479 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 10:32:24,511 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:32:25,247 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:32:25,261 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:32:25,273 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:32:25,325 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:25] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:32:26,230 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:32:26] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:08,787 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:08] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:11,116 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:11,217 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:11,219 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:11,220 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:11,222 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:11,316 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:11] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:16,981 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:42,852 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 10:33:42,892 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 10:33:43,466 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 10:33:43,471 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 10:33:43,477 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 10:33:44,400 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:58,755 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 10:33:58,824 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:58,825 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:58,827 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:58,829 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:33:58,933 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:33:58] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 10:36:03,527 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:36:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:20,366 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:21,991 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:21] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:22,146 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:22,284 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:22,429 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:22,557 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:23,693 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:23,883 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:24,082 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:40:24,443 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:40:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:45:03,903 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:45:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:45:20,696 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:45:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:45:29,067 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:45:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:45:38,827 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:45:38] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:46:13,119 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:46:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:46:29,842 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:46:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:46:31,704 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:46:31] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:46:43,855 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:46:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:48:10,719 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:48:10] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:48:19,449 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:48:19] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:48:19,888 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:48:19] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:48:20,503 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:48:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:48:20,998 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:48:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:49:58,305 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:49:58] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:50:44,069 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:50:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:50:53,896 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:50:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:50:54,171 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:50:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:50:54,693 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:50:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:51:10,431 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:51:10] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:51:12,411 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:51:12] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:52:14,239 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:52:14] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:52:15,843 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:52:15] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:52:27,032 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:52:27] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:52:54,193 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:52:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:53:32,791 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:53:32] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:53:54,132 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:53:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:54:05,840 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:54:05] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:54:13,696 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:54:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:54:16,488 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:54:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:54:23,344 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:54:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:55:32,549 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:55:32] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:56:51,575 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:56:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:56:56,931 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:56:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:56:58,327 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:56:58] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:57:09,439 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:57:09] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:57:11,153 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:57:11] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:57:39,139 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:57:39] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 10:59:35,796 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 10:59:35] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:01:53,694 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:01:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:02:02,355 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:02:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:02:13,044 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:02:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:03:20,006 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:03:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:03:27,815 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:03:27] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:03:41,482 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:03:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:04:14,599 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:04:14] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:08:01,156 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:08:01] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:08:24,757 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:08:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:11:39,535 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:11:39] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:12:04,912 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:12:04] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:12:06,765 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:12:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:13:01,038 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:13:01] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:13:03,108 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:13:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:13:53,838 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:13:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:13:54,643 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:13:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:14:02,297 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:14:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:15:58,852 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:15:58] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:16:13,551 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:16:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:16:15,922 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:16:15] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:16:27,900 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:16:27] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:16:29,016 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:16:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:18:56,811 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:18:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:19:03,108 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:19:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:19:29,180 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:19:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:19:41,430 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:19:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:19:43,026 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:19:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:28,779 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:28] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:30,833 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:30] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:43,436 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:45,518 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:45] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:51,052 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:20:53,888 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:20:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:21:22,816 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:21:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:21:32,718 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:21:32] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:21:45,617 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:21:45] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:21:49,319 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:21:49] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:21:56,698 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:21:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:22:10,670 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:22:10] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:22:25,073 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:22:25] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:22:25,877 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:22:25] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:23:08,043 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:23:08] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:23:29,327 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:23:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:24:06,645 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:24:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:24:07,046 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:24:07] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:24:09,492 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:24:09] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:24:09,702 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:24:09] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:25:34,166 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:25:34] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:25:41,001 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:25:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:26:05,724 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:26:05] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:27:34,027 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:27:34] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:27:53,242 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:27:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:28:01,526 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:28:01] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:28:04,943 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:28:04] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:29:06,837 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:29:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:29:31,516 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:29:31] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:29:39,638 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:29:39] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:30:16,746 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:30:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:30:25,653 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:30:25] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:30:29,070 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:30:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:30:42,149 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:30:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:31:51,709 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:31:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:31:53,505 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:31:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:32:43,469 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:32:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:33:01,317 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:33:01] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:33:37,371 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:33:37] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:33:41,817 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:33:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:33:54,403 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:33:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:34:32,824 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:34:32] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:34:51,400 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:34:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:35:08,171 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:35:08] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:36:29,645 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:36:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:38:13,419 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:38:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:38:56,641 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:38:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:39:04,738 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:39:04] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:40:49,184 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:40:49] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:42:02,130 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:42:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:42:11,338 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:42:11] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:44:22,930 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:44:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:44:36,471 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:44:36] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:44:36,586 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:44:36] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:44:36,982 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:44:36] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:44:37,298 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:44:37] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:45:48,066 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:45:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:28,825 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:28] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:31,582 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:31] "GET /api/questionHello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:49,074 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:49] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:50,080 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:50] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:50,087 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:50] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 11:46:50,107 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:50] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:46:50,150 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:50] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:46:50,164 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:50] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:46:51,169 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:51] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:51,177 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:51] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:46:54,574 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:46:56,807 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:46:56] "GET /question14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-02 11:47:45,745 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:45] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 11:47:45,812 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 11:47:45,905 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:47:46,532 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:47:46,537 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:47:46,542 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:47:46,633 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:46] "GET /static/js/vendor.55163d38d0268bf3b91a.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:47:46,634 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:46] "GET /static/js/app.6eec99d7716c8703c5a5.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:47:46,636 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:46] "GET /static/css/app.cca059254702f9ed953b7df749673cf4.css HTTP/1.1" 304 -
+INFO 2018-03-02 11:47:46,637 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:46] "GET /static/js/manifest.09b20e45f9b534366ff5.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:47:46,687 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:46] "GET /static/js/1.176008cfb64a5b79fdcf.js HTTP/1.1" 304 -
+INFO 2018-03-02 11:47:50,700 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:50] "GET /question HTTP/1.1" 200 -
+INFO 2018-03-02 11:47:51,856 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:51] "GET /app.js HTTP/1.1" 200 -
+INFO 2018-03-02 11:47:52,989 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:47:52] "GET /10.js HTTP/1.1" 200 -
+INFO 2018-03-02 11:48:03,366 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 11:48:03,426 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:48:03,953 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:48:03,959 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:48:03,965 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:49:34,752 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:49:34] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:49:37,475 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:49:37] "GET /questionHello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:50:36,857 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:50:36] "GET /questionHello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:51:00,137 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:51:00] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:51:03,108 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:51:03] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-02 11:52:06,038 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 11:52:06,080 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:52:06,685 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:52:06,690 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:52:06,695 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:52:07,586 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:52:07] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:52:10,938 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:52:10] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-02 11:52:44,486 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 11:52:44,531 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:52:45,129 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:52:45,134 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:52:45,139 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:52:47,685 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:52:47] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:52:50,982 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:52:50] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 500 -
+INFO 2018-03-02 11:52:55,690 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-02 11:52:55,732 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:52:56,365 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:52:56,370 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:52:56,375 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:52:57,050 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:52:57] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:53:58,131 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-02 11:53:58,193 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:53:58,826 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:53:58,832 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:53:58,838 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:54:02,476 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:54:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:54:05,362 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:54:05] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:55:32,931 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:55:32] "GET /question/test HTTP/1.1" 200 -
+INFO 2018-03-02 11:55:49,409 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:55:49] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:57:20,026 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-02 11:57:20,086 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 11:57:20,849 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 11:57:20,854 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 11:57:20,859 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 11:57:22,315 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:57:22] "GET /question/test HTTP/1.1" 200 -
+INFO 2018-03-02 11:57:34,273 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:57:34] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:57:39,193 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:57:39] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:57:41,521 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:57:41] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:58:10,109 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:58:10] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:58:34,224 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:58:34] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:58:36,254 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:58:36] "GET /question/adresse HTTP/1.1" 200 -
+INFO 2018-03-02 11:58:41,217 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:58:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:58:43,405 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:58:43] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:59:13,616 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:59:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:59:15,220 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:59:15] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 11:59:41,110 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:59:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 11:59:43,178 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 11:59:43] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 12:03:51,662 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:03:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:04:04,152 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:04:04] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:04:05,063 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:04:05] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:04:13,080 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:04:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:04:16,670 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:04:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:06:44,410 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:06:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:08:24,898 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:08:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:08:27,831 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:08:27] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 12:10:39,473 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:10:39] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:13:43,639 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:13:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:14:29,748 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:14:29] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:14:34,956 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:14:34] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-02 12:14:50,696 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:14:50] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:42:57,275 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:42:57] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:46:51,828 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:46:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:50:16,173 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:50:16] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:51:41,479 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:51:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:51:43,581 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:51:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:51:47,323 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:51:47] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:51:48,423 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:51:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:51:53,399 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:51:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:52:53,772 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:52:53] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:53:11,386 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:53:11] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:53:20,593 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:53:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:53:21,427 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:53:21] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:53:55,275 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:53:55] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:54:06,240 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:54:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:55:20,630 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:55:20] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:55:31,202 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:55:31] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-02 12:55:56,053 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:55:56] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:56:22,437 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:56:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 12:56:24,682 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 12:56:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:00:13,471 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:00:13] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:01:15,298 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:01:15] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:02:30,719 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:02:30] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:10:21,323 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:10:21] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:10:41,277 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:10:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:11:17,049 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:11:17] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:12:31,295 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:12:31] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:12:57,743 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:12:57] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 13:13:06,911 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 13:13:06] "GET /api/random HTTP/1.1" 200 -

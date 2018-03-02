@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <div class="jumbotron text-center">
+        <h1 class="mb-5">Bienvenue !</h1>
+<!--         <button @click="[[ getBrowserLanguage() ]]" class="btn btn-primary mb-4">get browser language</button> -->
+
+        <fieldset>
+        <input @keyup.enter="lookupGmapsWikiApi" v-model="user_query" name="user_query" type="text" class="form-control" placeholder="Entrez une adresse">
+        <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5">Envoyer</button>
+        </fieldset>
+
+        <!-- Map and wikimedia text display -->
+        <template v-if="status === 'OK'">
+            <div class="card">
+                <div class="card-img-top" v-html="gmaps_iframe"></div>
+                <div class="card-block"></div>
+                    <p class="mt-4"><strong>[[ messages.ok ]]</strong></p>
+                    <p v-html="wikimedia_txt" class="mt-1 card-text"></p>
+                <a v-if="wiki_url.length > 0" :href="wiki_url" target="_blank" class="btn btn-primary">En savoir plus</a>
+            </div>
+        </template>
+        <template v-else-if="status.length == 0">
+            <p>Mettre quelque chose en placeholder ici</p>
+        </template>
+        <template v-else-if="status === 'GEOLOC_ONLY'">
+                <div class="card">
+                <div class="card-block"></div>
+                    <p class="mt-1 card-text"><strong>[[ messages.geoloc_only ]]</strong></p>
+                    <div class="card-img-bottom" v-html="gmaps_iframe"></div>
+            </div>
+        </template>
+        <template v-else-if="status === 'NOTHING_FOUND'">
+            <p><strong>[[ messages.nothing_found ]]</strong></p>
+        </template>
+        <template v-else>
+            <p><strong>[[ messages.no_response ]]</strong></p>
+        </template>
+    </div>
+{% endblock %}

@@ -1,0 +1,5 @@
+.pytest_cache
+__pycache__/
+src/projet_7.sublime-project
+src/projet_7.sublime-workspace
+tests.py
