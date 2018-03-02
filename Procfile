@@ -1,2 +1,2 @@
-web: web: gunicorn gpb_app:app
+web: gunicorn gpb_app:app
 init: FLASK_APP=backend/run.py
