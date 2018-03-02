@@ -1,0 +1,10 @@
+{
+  "name": "grandpybot",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "Synkied <synkx@hotmail.fr>",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
