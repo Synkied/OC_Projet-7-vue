@@ -1,2 +1,2 @@
-web: bin/runsvdir-dyno
+web: node ./server.js
 init: FLASK_APP=backend/run.py

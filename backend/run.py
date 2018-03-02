@@ -6,4 +6,4 @@ from gpb_app.logly.logging_config import logging_config
 dictConfig(logging_config)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=33507)
+    app.run(debug=True)

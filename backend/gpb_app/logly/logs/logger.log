@@ -1426,3 +1426,43 @@ INFO 2018-03-02 17:37:46,139 { module name : _internal Line no : 88}  * Debugger
 INFO 2018-03-02 17:37:46,145 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO 2018-03-02 17:58:03,884 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\run.py', reloading
 INFO 2018-03-02 17:58:03,921 { module name : _internal Line no : 88}  * Restarting with stat
+INFO 2018-03-02 18:02:10,749 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 18:02:11,250 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 18:02:11,254 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 18:02:11,259 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:33507/ (Press CTRL+C to quit)
+INFO 2018-03-02 18:03:19,808 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:19] "GET /robots.txt HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:19,825 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:19] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:21,307 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /robots.txt HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:21,319 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /static/css/app.69954bbcf8be67a9dd30d552e3c13fe9.css HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:21,393 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /static/js/vendor.1b48e5e6714d15b3983d.js HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:21,407 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /static/js/manifest.bc9f1f360392cfaffad0.js HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:21,425 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /static/js/app.604ce7ee5b646015c915.js HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:21,496 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:21] "GET /static/js/0.7faa8761221af157f0b0.js HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:22,815 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:22] "GET /favicon.ico HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:23,841 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:23] "GET /favicon.ico HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:27,778 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET / HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:27,844 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET /static/js/app.604ce7ee5b646015c915.js HTTP/1.1" 304 -
+INFO 2018-03-02 18:03:27,846 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET /static/js/vendor.1b48e5e6714d15b3983d.js HTTP/1.1" 304 -
+INFO 2018-03-02 18:03:27,847 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET /static/js/manifest.bc9f1f360392cfaffad0.js HTTP/1.1" 304 -
+INFO 2018-03-02 18:03:27,864 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET /static/css/app.69954bbcf8be67a9dd30d552e3c13fe9.css HTTP/1.1" 304 -
+INFO 2018-03-02 18:03:27,993 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:27] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:29,048 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:29] "GET /robots.txt HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:29,052 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:29] "GET /static/js/0.7faa8761221af157f0b0.js HTTP/1.1" 304 -
+INFO 2018-03-02 18:03:30,075 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:30] "GET /robots.txt HTTP/1.1" 500 -
+INFO 2018-03-02 18:03:34,549 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:34] "GET /static/js/0.7faa8761221af157f0b0.js.map HTTP/1.1" 200 -
+INFO 2018-03-02 18:03:48,785 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\run.py', reloading
+INFO 2018-03-02 18:03:48,834 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-02 18:03:49,383 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-02 18:03:49,389 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-02 18:03:49,394 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-02 18:03:54,328 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:03:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 18:04:02,135 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 18:04:04,277 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:04] "GET /api/random HTTP/1.1" 200 -
+ERROR 2018-03-02 18:04:09,465 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:09] code 400, message Bad request version ('À+À/Ì©Ì¨À,À0À')
+INFO 2018-03-02 18:04:09,466 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:09] " µ  ±«=rÛ"ê4X$´zÚ78·­O1àw{/  À+À/Ì©Ì¨À,À0À" HTTPStatus.BAD_REQUEST -
+INFO 2018-03-02 18:04:28,234 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:28] "GET /api/random HTTP/1.1" 200 -
+ERROR 2018-03-02 18:04:30,189 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:30] code 400, message Bad request syntax ('\x16\x03\x01\x00µ\x01\x00\x00±\x03\x03\x1aêP#\x85\x86ÎIH\x0c_\x91f¾\x9e<BL;IKÃO\x97«V\x01ìj¨.\x99\x00\x00\x1eÀ+À/Ì©Ì¨À,À0À')
+INFO 2018-03-02 18:04:30,189 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:30] " µ  ±êP#ÎIH_f¾<BL;IKÃO«Vìj¨.  À+À/Ì©Ì¨À,À0À" HTTPStatus.BAD_REQUEST -
+INFO 2018-03-02 18:04:51,686 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:51] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-02 18:04:53,710 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:53] "GET /question/ HTTP/1.1" 500 -
+INFO 2018-03-02 18:04:55,817 { module name : _internal Line no : 88} 127.0.0.1 - - [02/Mar/2018 18:04:55] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -

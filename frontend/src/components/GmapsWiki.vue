@@ -66,7 +66,7 @@ export default {
   methods: {
     lookupGmapsWikiAPI: function () {
       var thisVm = this
-      const path = 'https://localhost:5000/question/' + encodeURI(thisVm.user_query)
+      const path = 'http://localhost:5000/question/' + encodeURI(thisVm.user_query)
       axios.get(path)
         .then(function (response) {
           console.log(response.data) // ex.: { user: 'Your User'}
