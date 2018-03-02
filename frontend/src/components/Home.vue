@@ -31,7 +31,7 @@ export default {
       this.randomNumber = this.getRandomFromBackend()
     },
     getRandomFromBackend () {
-      const path = 'https://grandpybot-vue-ql.herokuapp.com/api/random'
+      const path = 'http://localhost:5000/api/random'
       axios.get(path)
         .then(response => {
           this.randomNumber = response.data.randomNumber
