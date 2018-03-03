@@ -21,3 +21,4 @@ new Vue({
     BootstrapVue
   }
 }).$mount('#app')
+/* Mounts the scripts to the #app div in ../app.html */

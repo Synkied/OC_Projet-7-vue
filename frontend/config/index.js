@@ -48,7 +48,7 @@ module.exports = {
     index: path.resolve(__dirname, '../../backend/gpb_app/templates/app.html'),
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../../backend/gpb_app/static/app'),
+    assetsRoot: path.resolve(__dirname, '../../backend/gpb_app/'),
     assetsSubDirectory: 'static/app',
     assetsPublicPath: '/',
 

@@ -186,14 +186,16 @@ class MediaWikiRequest:
             else:
                 self.random_place
 
+            # set page_id to be the page idof the selected place
+            # via random_place var
             page_id = (
                 self.bound_places_data['query']['geosearch'][
                     self.random_place]['pageid'])
 
-            # return mediawiki infos about a place
-
+        # this returns if there's an error
+        # or if the place has no linked wikipedia articles
         except Exception as trace:
-            trace = ("mediawiki API error while preparing search data "
+            trace = ("Mediawiki API error while preparing search data "
                      "for \"{}|{}\":\n{}".format(self.lat, self.lng, trace))
             app.logger.info(trace)
             return False

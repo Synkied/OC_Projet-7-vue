@@ -9,7 +9,13 @@ from gpb_app.controllers import question
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('app.html')
+
+
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def catch_all(path):
+    return render_template("app.html")
 
 
 @app.route('/question/<string:query>',)

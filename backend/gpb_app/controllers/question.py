@@ -91,7 +91,7 @@ class QuestionHandler:
 
         # if self.user_query is False
         if not self.user_query:
-            return json.dumps(self.json_output)
+            return self.json_output
 
         # Get data from Google Maps
         geoloc_req = GMapsRequest(
@@ -99,7 +99,7 @@ class QuestionHandler:
 
         # if geoloc_req is False
         if not geoloc_req:
-            return json.dumps(self.json_output)
+            return self.json_output
 
         self.json_output['address'] = geoloc_req.address
         self.json_output['lat'] = geoloc_req.lat
@@ -129,7 +129,7 @@ class QuestionHandler:
 
         # if mediawiki_req is False
         if not mediawiki_req:
-            return json.dumps(self.json_output)
+            return self.json_output
 
         self.json_output['title'] = mediawiki_req.title
         self.json_output['extract'] = mediawiki_req.extract
