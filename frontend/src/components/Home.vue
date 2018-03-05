@@ -1,8 +1,11 @@
 <template>
   <div class="container">
     <gmaps-wiki></gmaps-wiki>
-    <p>Random number from backend: {{ randomNumber }}</p>
-    <button @click="getRandom">New random number</button>
+    <div class="gen_number">
+      <h4>{{ messages.title }}</h4>
+      <p>{{ messages.subtitle }} {{ randomNumber }}</p>
+      <button class="btn" @click="getRandom">{{ messages.button }}</button>
+    </div>
   </div>
 </template>
 
@@ -10,11 +13,18 @@
 import axios from 'axios'
 import GmapsWiki from './GmapsWiki'
 
+var rdmNumsMsgsFr = {
+  title: 'EN BONUS',
+  subtitle: 'Générateur de nombres aléatoires :',
+  button: 'Nouveau nombre aléatoire'
+}
+
 export default {
   data () {
     return {
       randomNumber: 0,
-      title: 'Grandpy bot'
+      title: 'Grandpy bot',
+      messages: rdmNumsMsgsFr
     }
   },
   methods: {
@@ -45,3 +55,14 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .container {
+    max-width: 960px;
+  }
+
+  .gen_number {
+    text-align: center;
+  }
+
+</style>

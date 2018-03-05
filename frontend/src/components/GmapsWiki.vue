@@ -9,7 +9,7 @@
 
       <fieldset>
       <input @keyup.enter="lookupGmapsWikiAPI" v-model="user_query" name="user_query" type="text" class="form-control" placeholder="Entrez une adresse">
-      <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5">Envoyer</button>
+      <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5 query_btn">Envoyer</button>
       </fieldset>
 
       <rise-loader :loading="loading"></rise-loader>
@@ -37,6 +37,9 @@
       <template v-else-if="status === 'NOTHING_FOUND'">
           <p><strong>{{ messages.nothing_found }}</strong></p>
       </template>
+      <template v-else-if="status === 'NO_QUERY'">
+          <p><strong>{{ messages.no_query }}</strong></p>
+      </template>
       <template v-else>
           <p><strong>{{ messages.no_response }}</strong></p>
       </template>
@@ -54,7 +57,8 @@ var messages = {
   ok: 'Écoute mon petit, voici ce que je sais sur cet endroit et ses environs :',
   geoloc_only: 'Je ne me souviens pas d\'anecdote sur cet endroit, mais je me souviens où il se trouve (ou peut-être pas...)',
   nothing_found: 'Hum... il ne me semble pas connaître cet endroit, aurais-tu plus de détails à me fournir (une ville, un code postale) ?',
-  no_response: 'Ma mémoire flanche, laisse moi me reposer un peu et reviens me voir plus tard !'
+  no_response: 'Ma mémoire flanche, laisse moi me reposer un peu et reviens me voir plus tard !',
+  no_query: 'Si tu ne me demandes rien, je ne peux pas y réfléchir !'
 }
 
 export default {
@@ -75,20 +79,25 @@ export default {
   methods: {
     lookupGmapsWikiAPI: function () {
       var thisVm = this
-      const path = '/question/' + encodeURI(thisVm.user_query)
-      loadProgressBar()
-      axios.get(path).then(response => {
-        if (response.data) {
-          console.log(response.data) // ex.: { user: 'Your User'}
-          thisVm.gmaps_iframe = response.data.iframe_map
-          thisVm.wikimedia_txt = response.data.extract
-          thisVm.wiki_url = response.data.url
-          thisVm.status = response.data.status
-        }
-      })
-        .catch(function (error) {
-          console.log(error)
+      /* axios to ajax the query */
+      if (thisVm.user_query) {
+        const path = '/question/' + encodeURI(thisVm.user_query)
+        loadProgressBar()
+        axios.get(path).then(response => {
+          if (response.data) {
+            console.log(response.data) // ex.: { user: 'Your User'}
+            thisVm.gmaps_iframe = response.data.iframe_map
+            thisVm.wikimedia_txt = response.data.extract
+            thisVm.wiki_url = response.data.url
+            thisVm.status = response.data.status
+          }
         })
+          .catch(function (error) {
+            console.log(error)
+          })
+      } else {
+        thisVm.status = 'NO_QUERY'
+      }
     }
   },
   components: {
@@ -97,13 +106,35 @@ export default {
 }
 </script>
 
-<style>
-  @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+<!-- scoped styles for this component -->
+<style scoped>
+  @import url('https://fonts.googleapis.com/css?family=Oxygen');
+  @import url('https://fonts.googleapis.com/css?family=Raleway');
 
   h1{
     text-align: center;
-    font-family: 'Ubuntu', sans-serif !important;
-    font-size: 4.5rem !important;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-size: 6vh;
+    text-transform: uppercase;
+    color: #fff;
+  }
 
+  .query_btn{
+    background-color: #2B7A78;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+  }
+
+  .query_btn:hover{
+    background-color: #55c3c0;
+  }
+
+  .jumbotron{
+    background-color: #DEF2F1;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
   }
 </style>

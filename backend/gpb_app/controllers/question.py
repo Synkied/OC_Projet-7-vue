@@ -74,7 +74,7 @@ class QuestionHandler:
         :rtype: str or False
         """
         if self.json_output:
-            return json.dumps(self.json_output)
+            return self.json_output
 
         # empty json_output init
         self.json_output = {

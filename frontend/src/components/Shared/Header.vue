@@ -1,11 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-md">
-      <div class="container">
-        <a class="navbar-brand text-center center-block" href="/">
-            <img src="../../assets/logo.png" height="80" width="80" alt="">
-            Grandpy Bot
-        </a>
-      </div>
+    <a class="navbar-brand text-center center-block" href="/">
+        <img src="../../assets/logo.png" height="80" width="80" alt="">
+        <p class="logo_txt">Grandpy</p>
+        <p class="logo_txt">Bot</p>
+    </a>
 <!--     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
 </button> -->
@@ -17,13 +16,22 @@
 </script>
 
 <style>
-.navbar {
-    background-color: #88bbd6;
-    color: #fff;
-}
+  @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 
-nav a, nav a:hover, nav a:active{
+  .navbar {
     color: #fff;
-}
+  }
+
+  nav a, nav a:hover, nav a:active{
+    color: #fff;
+  }
+
+  .logo_txt {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: -10px;
+    text-align: right;
+  }
 
 </style>

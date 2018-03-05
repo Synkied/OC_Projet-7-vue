@@ -5,8 +5,12 @@ import App from './App'
 import router from './router'
 import BootstrapVue from 'bootstrap-vue'
 
+/* boostrap's css import, needed for bootstrap to work */
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+
+/* Importing the favicons.js file to load favicons in the webpack build */
+import '../favicons/favicons'
 
 Vue.config.productionTip = false
 Vue.use(BootstrapVue)

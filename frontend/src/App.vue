@@ -11,6 +11,7 @@
 <script>
 import Header from './components/Shared/Header.vue'
 import Footer from './components/Shared/Footer.vue'
+
 export default {
   name: 'App',
   components: {
@@ -27,8 +28,13 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #fff;
   margin-top: 60px;
+}
+
+body {
+  color: #fff !important;
+  background-image: radial-gradient(circle,rgba(58,175,169,.95) 10%,rgba(43,122,120,.95) 130%) !important;
 }
 
 </style>
