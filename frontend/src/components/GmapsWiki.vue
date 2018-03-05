@@ -47,6 +47,8 @@
 <script>
 import axios from 'axios'
 import RiseLoader from 'vue-spinner/src/RiseLoader.vue'
+import { loadProgressBar } from 'axios-progress-bar'
+import 'axios-progress-bar/dist/nprogress.css'
 
 var messages = {
   ok: 'Écoute mon petit, voici ce que je sais sur cet endroit et ses environs :',
@@ -74,6 +76,7 @@ export default {
     lookupGmapsWikiAPI: function () {
       var thisVm = this
       const path = '/question/' + encodeURI(thisVm.user_query)
+      loadProgressBar()
       axios.get(path).then(response => {
         if (response.data) {
           console.log(response.data) // ex.: { user: 'Your User'}
