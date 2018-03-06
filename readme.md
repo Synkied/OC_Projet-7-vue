@@ -3,8 +3,10 @@
 https://grandpybot-ql.herokuapp.com/
 
 # Features
+Ask about an address to this bot and he'll just point you where it is on Google Maps, and tell you a story about its surroundings! :)
+Quite nice.
 
-# Installation:
+# Installation
 
 ### Python 3
 
