@@ -1,6 +1,6 @@
 # GrandPy Bot, the grandpa-bot !
 ## Test the app online:
-https://grandpybot-ql.herokuapp.com/
+https://grandpybot-vue-ql.herokuapp.com/
 
 # Features
 Ask about an address to this bot and he'll just point you where it is on Google Maps, and tell you a story about its surroundings! :)
