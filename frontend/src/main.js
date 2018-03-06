@@ -15,6 +15,8 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 /* Importing the favicons.js file to load favicons in the webpack build */
 import '../favicons/favicons'
 
+require('vue2-animate/dist/vue2-animate.min.css')
+
 Vue.config.productionTip = false
 Vue.use(BootstrapVue)
 

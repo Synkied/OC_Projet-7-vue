@@ -58,6 +58,12 @@ export default {
   .gen_number {
     text-align: center;
     color: #fff;
+    margin: 70px 0 0 0;
+  }
+
+  .btn:hover {
+    background-color: #000;
+    color: #fff;
   }
 
 </style>

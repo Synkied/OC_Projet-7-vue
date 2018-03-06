@@ -67,5 +67,3 @@ or (Unix only)
 cd backend
 make run
 ```
-
-# Known issues
