@@ -1,3 +1,13 @@
+"""
+Question handler for the app.
+Contains 1 class:
+* QuestionHandler
+
+Parses a query and returns
+
+Quentin Lathiere - synkx@hotmail.fr
+"""
+
 import os
 import re
 import json
@@ -25,7 +35,7 @@ class QuestionHandler:
 
     def __init__(self, user_query):
         self.user_query = user_query
-        self.json_output = False
+        self.output = False
 
         self.parse()
 
@@ -67,17 +77,17 @@ class QuestionHandler:
         # the query with half words and stop words removed
         return self.user_query
 
-    def to_json(self):
+    def to_output(self):
         """
         Converts all required API datas to a json, then to a str
         via json.dumps() method.
         :rtype: str or False
         """
-        if self.json_output:
-            return self.json_output
+        if self.output:
+            return self.output
 
-        # empty json_output init
-        self.json_output = {
+        # empty output init
+        self.output = {
             "query": self.user_query,
             "status": self.JSON_NOTHING,
             "address": "",
@@ -91,22 +101,21 @@ class QuestionHandler:
 
         # if self.user_query is False
         if not self.user_query:
-            return self.json_output
+            return self.output
 
         # Get data from Google Maps
-        geoloc_req = GMapsRequest(
-            self.user_query, True).filter_data()
+        geoloc_req = GMapsRequest(self.user_query).filter_data()
 
         # if geoloc_req is False
         if not geoloc_req:
-            return self.json_output
+            return self.output
 
-        self.json_output['address'] = geoloc_req.address
-        self.json_output['lat'] = geoloc_req.lat
-        self.json_output['lng'] = geoloc_req.lng
-        self.json_output['status'] = self.JSON_GEOLOC_ONLY   # update status
+        self.output['address'] = geoloc_req.address
+        self.output['lat'] = geoloc_req.lat
+        self.output['lng'] = geoloc_req.lng
+        self.output['status'] = self.JSON_GEOLOC_ONLY   # update status
 
-        encoded_address = quote(self.json_output['address'])
+        encoded_address = quote(self.output['address'])
 
         iframe = """
                 <iframe
@@ -121,23 +130,23 @@ class QuestionHandler:
                 """.format(
             encoded_address, app.config['GMAPS_GEOCODING_API_KEY'])
 
-        self.json_output['iframe_map'] = iframe
+        self.output['iframe_map'] = iframe
 
         # Get data from WikiMedia
         mediawiki_req = MediaWikiRequest(
-            geoloc_req.lat, geoloc_req.lng, True).get_data()
+            geoloc_req.lat, geoloc_req.lng).get_data()
 
         # if mediawiki_req is False
         if not mediawiki_req:
-            return self.json_output
+            return self.output
 
-        self.json_output['title'] = mediawiki_req.title
-        self.json_output['extract'] = mediawiki_req.extract
-        self.json_output['url'] = mediawiki_req.url
-        self.json_output['status'] = self.JSON_OK  # update status
+        self.output['title'] = mediawiki_req.title
+        self.output['extract'] = mediawiki_req.extract
+        self.output['url'] = mediawiki_req.url
+        self.output['status'] = self.JSON_OK  # update status
 
         # Prepare ready-to-embed Google Map's iframe with the address query
-        encoded_address = quote(self.json_output['address'])
+        encoded_address = quote(self.output['address'])
 
         # Encoding and return
-        return self.json_output
+        return self.output

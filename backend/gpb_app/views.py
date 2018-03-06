@@ -26,7 +26,7 @@ def send_query(query):
     handles inputs from html files
     """
     processed_query = question.QuestionHandler(query)
-    answer = processed_query.to_json()
+    answer = processed_query.to_output()
     return jsonify(answer)
 
 

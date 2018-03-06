@@ -4197,3 +4197,783 @@ INFO 2018-03-06 00:35:45,096 { module name : _internal Line no : 88} 127.0.0.1 -
 INFO 2018-03-06 00:35:45,098 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 00:35:45] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 200 -
 INFO 2018-03-06 00:35:45,145 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 00:35:45] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
 INFO 2018-03-06 00:35:45,182 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 00:35:45] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:25,654 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 09:59:26,105 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 09:59:26,112 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 09:59:26,126 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 09:59:26,732 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:26] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,071 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/css/app.e3012b810bc060721224db40701107f2.css HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,085 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/js/manifest.efc7e488e250a22e6ec9.js HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,220 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/js/vendor.f5bde04ab8ce0625458e.js HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,241 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/js/app.e0eedce15f06a76a9d9c.js HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,461 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/js/1.28936c71eadd768b111e.js HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,473 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,484 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,555 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 09:59:27,802 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 09:59:27] "GET /static/app/assets/favicons/favicon-16x16.png HTTP/1.1" 200 -
+INFO 2018-03-06 10:36:58,159 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 10:36:58] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 10:49:25,524 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:49:25,569 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:49:26,046 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:49:26,051 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:49:26,061 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:49:33,275 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:49:33,303 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:49:33,781 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:49:33,786 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:49:33,792 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:49:50,232 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:49:50,258 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:49:50,730 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:49:50,735 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:49:50,741 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:00,026 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:00,053 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:00,508 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:00,513 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:00,520 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:26,180 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:26,211 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:26,670 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:26,674 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:26,682 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:33,907 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:33,944 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:34,458 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:34,466 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:34,473 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:39,649 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:39,696 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:40,201 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:40,206 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:40,212 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:50,509 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:50,536 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:51,036 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:51,040 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:51,046 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:50:55,178 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:50:55,206 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:50:55,689 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:50:55,694 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:50:55,701 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:51:07,031 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:51:07,067 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:51:07,548 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:51:07,553 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:51:07,560 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:51:12,734 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:51:12,768 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:51:13,270 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:51:13,275 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:51:13,281 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:51:38,955 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:51:38,985 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:51:39,452 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:51:39,457 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:51:39,464 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:11,453 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:11,479 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:11,999 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:12,004 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:12,011 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:17,170 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:17,204 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:17,668 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:17,672 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:17,679 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:18,730 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:18,760 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:19,210 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:19,214 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:19,221 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:22,336 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:22,368 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:22,836 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:22,841 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:22,847 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:30,064 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:30,091 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:30,545 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:30,549 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:30,556 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:33,663 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:33,689 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:34,128 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:34,132 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:34,139 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:52:47,504 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:52:47,536 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:52:48,027 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:52:48,032 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:52:48,039 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:53:00,387 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:53:00,414 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:53:00,907 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:53:00,911 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:53:00,918 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:53:27,621 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:53:27,652 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:53:28,118 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:53:28,122 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:53:28,130 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:53:39,442 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:53:39,470 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:53:39,947 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:53:39,953 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:53:39,965 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:55:30,078 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:55:30,106 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:55:30,564 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:55:30,569 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:55:30,576 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:55:34,717 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:55:34,772 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:55:35,234 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:55:35,238 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:55:35,245 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:55:37,329 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:55:37,358 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:55:37,794 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:55:37,799 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:55:37,806 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:56:08,586 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:56:08,614 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:56:09,061 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:56:09,067 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:56:09,075 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:56:13,221 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:56:13,249 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:56:13,728 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:56:13,732 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:56:13,739 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:56:17,878 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:56:17,908 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:56:18,366 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:56:18,371 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:56:18,378 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:57:18,061 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:57:18,090 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:57:18,559 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:57:18,564 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:57:18,571 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:57:25,790 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:57:25,816 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:57:26,269 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:57:26,273 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:57:26,280 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:57:39,644 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:57:39,698 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:57:40,189 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:57:40,194 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:57:40,201 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:57:46,380 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:57:46,413 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:57:46,870 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:57:46,875 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:57:46,882 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:58:20,747 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:58:20,779 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:58:21,240 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:58:21,245 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:58:21,252 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 10:59:12,557 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 10:59:12,587 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 10:59:13,033 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 10:59:13,038 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 10:59:13,045 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:00:20,757 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:00:20,787 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:00:21,252 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:00:21,256 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:00:21,263 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:00:40,810 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:00:40,843 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:00:41,308 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:00:41,313 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:00:41,319 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:00:43,403 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:00:43,436 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:00:43,881 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:00:43,886 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:00:43,893 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:00:56,220 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:00:56,247 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:00:56,700 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:00:56,705 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:00:56,718 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:00:59,823 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:00:59,851 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:01:00,310 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:01:00,315 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:01:00,321 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:01:01,375 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:01:01,401 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:01:01,827 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:01:01,831 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:01:01,838 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:00,325 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:00,354 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:00,807 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:00,812 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:00,818 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:01,867 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:01,898 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:02,350 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:02,355 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:02,362 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:07,524 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:07,552 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:08,014 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:08,019 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:08,026 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:33,681 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:33,711 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:34,167 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:34,172 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:34,178 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:50,631 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:50,661 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:51,132 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:51,136 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:51,144 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:55,282 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:55,309 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:55,756 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:55,761 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:55,768 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:02:56,826 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:02:56,857 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:02:57,329 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:02:57,334 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:02:57,341 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:03:39,540 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:03:39,567 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:03:40,047 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:03:40,053 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:03:40,065 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:03:44,206 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:03:44,232 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:03:44,684 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:03:44,689 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:03:44,697 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:03:49,873 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:03:49,901 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:03:50,343 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:03:50,347 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:03:50,354 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:03:54,499 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:03:54,528 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:03:55,016 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:03:55,021 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:03:55,029 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:04:35,206 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:04:35,261 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:04:35,742 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:04:35,747 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:04:35,753 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:04:37,834 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:04:37,861 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:04:38,292 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:04:38,296 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:04:38,304 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:04:39,357 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:04:39,392 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:04:39,826 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:04:39,831 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:04:39,838 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:04:42,952 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:04:42,978 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:04:43,422 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:04:43,427 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:04:43,434 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:05,876 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:05,903 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:06,356 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:06,361 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:06,368 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:09,488 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:09,519 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:09,979 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:09,984 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:09,991 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:12,071 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:12,114 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:12,613 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:12,618 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:12,624 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:38,381 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:38,414 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:38,920 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:38,925 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:38,932 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:41,017 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:41,044 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:41,499 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:41,504 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:41,510 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:06:46,684 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:06:46,722 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:06:47,178 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:06:47,184 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:06:47,191 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:07:32,502 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:07:32,540 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:07:33,002 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:07:33,007 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:07:33,014 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:07:38,191 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:07:38,225 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:07:38,695 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:07:38,700 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:07:38,706 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:07:41,815 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:07:41,848 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:07:42,338 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:07:42,343 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:07:42,350 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:07:46,497 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:07:46,526 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:07:46,991 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:07:46,996 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:07:47,003 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:03,505 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:03,532 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:03,994 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:03,998 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:04,005 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:05,056 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:05,082 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:05,503 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:05,507 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:05,514 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:09,652 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:09,678 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:10,130 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:10,135 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:10,142 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:15,311 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:15,338 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:15,779 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:15,784 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:15,791 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:19,930 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:19,956 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:20,387 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:20,392 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:20,399 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:22,480 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:22,518 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:22,956 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:22,960 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:22,967 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:08:26,074 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:08:26,106 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:08:26,571 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:08:26,576 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:08:26,583 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:09:58,326 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:09:58,359 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:09:58,924 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:09:58,929 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:09:58,937 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:10:05,576 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:05,577 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:05,629 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/css/app.e3012b810bc060721224db40701107f2.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,631 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/js/app.e0eedce15f06a76a9d9c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,632 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/js/vendor.f5bde04ab8ce0625458e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,634 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/js/manifest.efc7e488e250a22e6ec9.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,875 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/js/1.28936c71eadd768b111e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,877 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:05,878 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:05] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:06,054 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:06] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:11,732 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:11] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:19,619 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:10:19,653 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:10:20,136 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:10:20,140 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:10:20,147 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:10:22,234 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:10:22,274 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:10:22,757 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:10:22,761 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:10:22,768 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:10:23,157 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:23,224 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/css/app.e3012b810bc060721224db40701107f2.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,226 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/js/app.e0eedce15f06a76a9d9c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,227 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/js/vendor.f5bde04ab8ce0625458e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,229 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/js/manifest.efc7e488e250a22e6ec9.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,474 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/js/1.28936c71eadd768b111e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,476 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,478 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:10:23,785 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:23] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:10:26,192 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:10:26] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-06 11:10:36,181 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:10:36,217 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:10:36,671 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:10:36,686 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:10:36,697 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:10:56,233 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:10:56,264 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:10:56,706 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:10:56,711 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:10:56,718 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:11:02,904 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:11:02,933 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:11:03,389 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:11:03,394 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:11:03,402 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:11:08,566 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:11:08,595 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:11:09,086 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:11:09,092 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:11:09,141 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:11:10,037 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:11:10,125 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/css/app.e3012b810bc060721224db40701107f2.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,127 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/js/manifest.efc7e488e250a22e6ec9.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,128 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/js/vendor.f5bde04ab8ce0625458e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,130 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/js/app.e0eedce15f06a76a9d9c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,395 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/js/1.28936c71eadd768b111e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,397 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,398 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:11:10,600 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:10] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:11:17,769 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:11:17] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:17:20,097 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:17:20,130 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:17:20,648 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:17:20,653 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:17:20,660 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:17:43,233 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:17:43,264 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:17:43,727 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:17:43,733 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:17:43,739 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:20:39,631 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:20:39,663 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:20:40,193 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:20:40,198 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:20:40,205 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:20:49,467 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:20:49,495 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:20:49,942 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:20:49,947 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:20:49,955 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:20:54,098 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:20:54,141 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:20:54,672 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:20:54,677 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:20:54,685 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:20:54,845 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:20:54] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:20:54,868 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:20:54] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-06 11:20:54,920 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:20:54] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 200 -
+INFO 2018-03-06 11:20:54,923 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:20:54] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:00,119 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:00] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:00,122 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:00] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:01,119 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:01] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:01,121 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:01] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:01,123 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:01] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:05,739 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:05] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-06 11:21:18,219 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:21:18] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 200 -
+INFO 2018-03-06 11:22:35,462 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:22:35,540 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,542 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,544 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,545 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,765 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,767 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:35,818 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:22:35] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:22:47,647 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:22:47,680 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:22:48,153 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:22:48,158 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:22:48,165 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:22:54,351 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:22:54,382 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:22:54,876 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:22:54,881 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:22:54,887 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:23:15,428 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:23:15,465 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:23:15,943 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:23:15,948 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:23:15,955 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:23:47,750 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:23:47,783 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:23:48,264 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:23:48,268 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:23:48,276 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:23:51,387 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:23:51,421 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:23:51,872 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:23:51,877 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:23:51,883 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:24:00,121 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:24:00,153 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:24:00,595 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:24:00,599 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:24:00,606 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:24:09,870 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:24:09,896 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:24:10,371 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:24:10,376 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:24:10,383 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:24:13,498 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:24:13,525 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:24:13,993 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:24:13,998 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:24:14,006 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:24:18,144 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:24:18,176 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:24:18,629 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:24:18,633 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:24:18,640 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:24:20,723 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:24:20,767 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:24:21,236 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:24:21,241 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:24:21,247 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:06,390 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:25:06,426 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:25:06,902 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:25:06,907 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:25:06,914 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:12,079 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:25:12,110 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:25:12,580 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:25:12,585 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:25:12,591 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:22,884 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:25:22,913 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:25:23,385 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:25:23,390 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:25:23,397 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:47,011 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:25:47,042 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:25:47,502 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:25:47,508 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:25:47,516 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:48,575 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:25:48,619 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:25:49,092 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:25:49,097 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:25:49,104 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:25:54,250 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:25:54] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:25:58,597 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:25:58] "GET /question/sdqfqf HTTP/1.1" 200 -
+INFO 2018-03-06 11:26:10,700 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:26:10,741 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:26:11,215 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:26:11,220 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:26:11,227 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:26:18,431 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:26:18,461 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:26:18,914 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:26:18,920 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:26:18,927 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:26:19,987 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:26:20,020 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:26:20,470 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:26:20,475 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:26:20,482 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:26:24,617 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\utils\\utils.py', reloading
+INFO 2018-03-06 11:26:24,645 { module name : _internal Line no : 88}  * Restarting with stat
+INFO 2018-03-06 11:38:12,352 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:38:12,810 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:38:12,815 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:38:12,824 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:38:13,267 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:38:13,366 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,368 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,370 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,372 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,680 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,682 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:13,696 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:13] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:17,233 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:17] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-06 11:38:20,533 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:20] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:23,285 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:23] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-06 11:38:39,553 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:38:39,597 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:38:40,095 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:38:40,100 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:38:40,108 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:38:41,164 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-06 11:38:41,199 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:38:41,658 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:38:41,662 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:38:41,669 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:38:42,003 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:38:42,093 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,094 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,096 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,097 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,345 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,347 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,364 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:42,761 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:42] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:38:46,708 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:38:46] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:38:50,964 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-06 11:38:51,008 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:38:51,569 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:38:51,574 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:38:51,581 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:38:58,787 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:38:58,822 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:38:59,304 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:38:59,309 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:38:59,316 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:04,476 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:39:04,512 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:39:04,994 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:39:04,999 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:39:05,006 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:09,149 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-06 11:39:09,184 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:39:09,661 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:39:09,665 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:39:09,672 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:10,917 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:10] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:11,010 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,012 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,013 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,015 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,236 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:11,336 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,403 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,405 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,407 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,412 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:11,550 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:11] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:12,290 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:12,293 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:12,294 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:15,851 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:15] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,655 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,656 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,658 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,669 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,671 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,673 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,769 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,771 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:20,839 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:20] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:21,145 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:21] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:22,836 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:22] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-06 11:39:31,544 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:39:31,972 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:39:31,977 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:39:31,984 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:33,866 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:33] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 500 -
+INFO 2018-03-06 11:39:51,513 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\controllers\\question.py', reloading
+INFO 2018-03-06 11:39:51,542 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:39:52,053 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:39:52,060 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:39:52,067 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:56,205 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\views.py', reloading
+INFO 2018-03-06 11:39:56,232 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 11:39:56,697 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 11:39:56,702 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 11:39:56,709 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 11:39:57,604 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:39:57,737 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,739 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,741 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,743 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,938 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,940 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:57,942 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:57] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:39:58,325 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:39:58] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:40:00,612 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:00] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:20,394 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:20] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:23,361 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:23] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:24,946 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:24] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:26,363 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:26] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:27,674 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:27] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:28,945 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:28] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:30,106 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:30] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:31,322 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:31] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:32,468 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:32] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:33,539 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:33] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:36,673 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:36] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:37,930 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:37] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:39,460 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:39] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:40,766 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:40] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:41,942 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:41] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:40:48,389 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:40:48] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,648 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:41:02,717 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,718 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/js/manifest.1d0b668a95adc9006b3c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,720 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/js/app.8472ee6d1541eb6ab603.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,722 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,971 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/js/1.b1b62437e8caa96896b5.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,972 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:02,983 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:02] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:03,458 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:03] "GET /static/app/css/app.6dc0c72537c8e67788bb28e2f396f6cd.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:41:43,403 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:41:43] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js.map HTTP/1.1" 404 -
+INFO 2018-03-06 11:44:41,125 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,235 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/css/app.2d2d6df10d5e9d3683362eb9289e89b3.css HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,238 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/js/manifest.619be71b0b8eaed56b32.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,240 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,243 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,451 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,453 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/js/1.a5f19b99aacdb549031b.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,457 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 11:44:41,521 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:44:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:20,966 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:20] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,051 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/css/app.3a3a66bc5ce16b57cc9a26a17bc1365b.css HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,067 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/js/manifest.a09830892b3c4288cd3a.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,156 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,164 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,265 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,266 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/js/1.0dcb41ac9924fe1c39a1.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,357 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:21,435 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:21] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:29,964 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:29] "GET /question/sqdkjqfjmlsq HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:41,325 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:41] "GET /question/sqdkjqfjmlsq%20paris HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:45,018 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:45] "GET /question/sqdkjqfjmlsq%2075014 HTTP/1.1" 200 -
+INFO 2018-03-06 11:46:54,084 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:46:54] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
+INFO 2018-03-06 11:47:20,942 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:47:20] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:47:24,733 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:47:24] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:48:00,618 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:48:00] "GET /static/app/css/app.3a3a66bc5ce16b57cc9a26a17bc1365b.css.map HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:32,664 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:32] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:32,753 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:32] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:32,770 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:32] "GET /static/app/js/manifest.eb9f127a63548ca4f35c.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:32,772 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:32] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:32,853 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:32] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:33,140 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:33] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:33,188 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:33] "GET /static/app/js/1.5af3a395f53c99f66d92.js HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:33,208 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:33] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:33,448 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:33] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:33,653 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:33] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css.map HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:37,654 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:37] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:41,041 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:41] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:42,922 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:42] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:47,255 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:47] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:49,193 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:49] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:50,450 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:50] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:51,764 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:51] "GET /question/tour%20eiffel HTTP/1.1" 200 -
+INFO 2018-03-06 11:49:58,035 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:49:58] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:50:49,952 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:50:49] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:51:54,332 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:51:54] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css.map HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,612 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 11:52:23,684 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,685 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,687 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,689 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/js/manifest.eb9f127a63548ca4f35c.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,908 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,910 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/js/1.5af3a395f53c99f66d92.js HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:23,924 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:23] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 11:52:24,179 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 11:52:24] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 12:10:41,911 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:41] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 12:10:41,912 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:41] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-06 12:10:41,997 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:41] "GET /static/app/css/app.b8748b61af119849078bca33f9f83957.css HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:41,999 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:41] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,000 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /static/app/js/manifest.eb9f127a63548ca4f35c.js HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,002 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,276 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,278 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /static/app/js/1.5af3a395f53c99f66d92.js HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,279 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-06 12:10:42,455 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 12:10:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 16:23:13,048 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 16:23:13,486 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 16:23:13,491 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 16:23:13,498 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

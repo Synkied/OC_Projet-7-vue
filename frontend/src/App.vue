@@ -1,4 +1,5 @@
 <!-- Defines all root elements (header, router-view, footer...) -->
+<!--  Quentin Lathiere - synkx@hotmail.fr -->
 
 <template>
   <div>
@@ -33,7 +34,6 @@ export default {
 }
 
 body {
-  color: #fff !important;
   background-image: radial-gradient(circle,rgba(58,175,169,.95) 10%,rgba(43,122,120,.95) 130%) !important;
 }
 

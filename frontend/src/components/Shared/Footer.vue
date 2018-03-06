@@ -1,3 +1,6 @@
+<!-- Footer file -->
+<!--  Quentin Lathiere - synkx@hotmail.fr -->
+
 <template>
   <footer>
     <div class="container">

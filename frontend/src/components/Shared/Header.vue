@@ -1,3 +1,6 @@
+<!-- Header file, used to define the navbar -->
+<!--  Quentin Lathiere - synkx@hotmail.fr -->
+
 <template>
   <nav class="navbar navbar-expand-md">
     <a class="navbar-brand text-center center-block" href="/">

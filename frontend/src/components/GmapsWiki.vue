@@ -1,15 +1,15 @@
 <!-- Displays Google Maps and Wikimedia API responses -->
+<!--  Quentin Lathiere - synkx@hotmail.fr -->
 
+<!-- Templates -->
 <template>
   <div>
   <h1 class="mb-5 mt-5">Bienvenue jeune personne !</h1>
     <div class="jumbotron text-center">
-    <!--   <img src="../assets/landscape.jpeg" width="100%" alt="Un paysage magnifique de montagne et rivière"> -->
-    <!--         <button @click="{{ getBrowserLanguage() }}" class="btn btn-primary mb-4">get browser language</button> -->
 
       <fieldset>
-      <input @keyup.enter="lookupGmapsWikiAPI" v-model="user_query" name="user_query" type="text" class="form-control" placeholder="Entrez une adresse">
-      <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5 query_btn">Envoyer</button>
+        <input @keyup.esc="user_query=''" @keyup.enter="lookupGmapsWikiAPI" v-model="user_query" name="user_query" type="text" class="form-control" placeholder="Entrez une adresse">
+        <button @click="lookupGmapsWikiAPI" class="btn mt-5 mb-5 query_btn">Envoyer</button>
       </fieldset>
 
       <rise-loader :loading="loading"></rise-loader>
@@ -47,12 +47,15 @@
   </div>
 </template>
 
+<!-- Scripts -->
 <script>
+/* Imports */
 import axios from 'axios'
 import RiseLoader from 'vue-spinner/src/RiseLoader.vue'
 import { loadProgressBar } from 'axios-progress-bar'
 import 'axios-progress-bar/dist/nprogress.css'
 
+/* vars declarations */
 var messages = {
   ok: 'Écoute mon petit, voici ce que je sais sur cet endroit et ses environs :',
   geoloc_only: 'Je ne me souviens pas d\'anecdote sur cet endroit, mais je me souviens où il se trouve (ou peut-être pas...)',
@@ -61,6 +64,7 @@ var messages = {
   no_query: 'Si tu ne me demandes rien, je ne peux pas y réfléchir !'
 }
 
+/* data, methods, components... declaration */
 export default {
   data () {
     return {
@@ -77,7 +81,7 @@ export default {
     }
   },
   methods: {
-    lookupGmapsWikiAPI: function () {
+    lookupGmapsWikiAPI () {
       var thisVm = this
       /* axios to ajax the query */
       if (thisVm.user_query) {
@@ -136,5 +140,10 @@ export default {
     border-radius: 20px;
     -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
+  }
+
+  .card-text {
+    padding: 0 30px;
+    text-align: justify;
   }
 </style>

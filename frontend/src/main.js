@@ -1,3 +1,6 @@
+// main file to mount the Vue views to the main html file.
+// Quentin Lathiere - synkx@hotmail.fr
+
 // The Vue build version to load with the `import` command
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'

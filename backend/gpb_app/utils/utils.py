@@ -1,3 +1,14 @@
+"""
+Utils for the app.
+Contains 4 classes:
+* GMapsRequest
+* GoogleMapsData
+* MediaWikiRequest
+* MediaWikiData
+
+Quentin Lathiere - synkx@hotmail.fr
+"""
+
 import json
 from unidecode import unidecode
 
@@ -18,7 +29,7 @@ class GMapsRequest:
     Handling Google Maps API requests
     """
 
-    def __init__(self, address_query, auto_search=False):
+    def __init__(self, address_query):
         self.data_response = False
         self.data = False
 
@@ -26,14 +37,11 @@ class GMapsRequest:
         self.api_key = app.config["GMAPS_GEOCODING_API_KEY"]
         self.address_query = address_query
 
-        if auto_search:
-            self.search()
-
     def search(self):
         """
         Sends a cleaned address query to gmaps API.
         Returns the json dump from the gmaps API response, or False.
-        :rtype: False or json data
+        :returns: json data or False (bool)
         """
         self.data_response = False
 
@@ -58,7 +66,7 @@ class GMapsRequest:
 
         # if 'status' exists and is set to 'OK', then return the json,
         # and set self.data_response to the json_response var, in order
-        # to access it from another function
+        # to access it from outside this function
         if 'status' in json_response.keys() \
                 and json_response['status'] == "OK":
             self.data_response = json_response
@@ -70,11 +78,12 @@ class GMapsRequest:
     def filter_data(self):
         """
         Filters data from gmaps json response
-        :rtype: str
+        :returns: str
         """
-        # Data response available ?
+
+        # data_response available?
         if not self.data_response:
-            if not self.search():  # if not: search
+            if not self.search():  # if not: perform search()
                 return False  # if no result, return False
 
         if not self.data:
@@ -100,6 +109,10 @@ class GMapsRequest:
 
 
 class GoogleMapsData:
+    """
+    Class used to format GoogleMaps data to str
+    """
+
     def __init__(self, address, lat, lng, place_id):
         self.address = address
         self.lat = lat
@@ -123,7 +136,7 @@ class MediaWikiRequest:
     Handling MediaWiki API requests
     """
 
-    def __init__(self, lat, lng, auto_search=False, random_place=None):
+    def __init__(self, lat, lng, random_place=None):
         self.bound_places_data = False
         self.extracts_data = False
         self.lat = lat
@@ -132,18 +145,10 @@ class MediaWikiRequest:
         self.data = False  # Final data set, MediaWikiData object
         self.random_place = random_place
 
-        if auto_search:
-            self.search()
-
-    def search(self):
-        """ method wrapper """
-        self.geo_search()
-        self.get_extracts()
-
     def geo_search(self):
         """
         Builds an url based on the passed lat and lng
-        :rtype: dict or False (bool)
+        :returns: dict or False (bool)
         """
 
         self.bound_places_data = False
@@ -173,7 +178,7 @@ class MediaWikiRequest:
 
     def get_extracts(self):
         """
-        :rtype: dict or False (bool)
+        :returns: dict or False (bool)
         """
 
         page_id = 0
@@ -230,27 +235,26 @@ class MediaWikiRequest:
 
     def get_data(self):
         """
-        Returns the content of the search in a MediaWikiData object
+        Returns the content of the search in a MediaWikiData object.
         Launches the search if needed.
-        The result is also stored in self.data.
-        :rtype: MediaWikiData custom object or False
+        Result stored in self.data.
+        :returns: MediaWikiData custom object or False
         """
-        #
-        # Do we have data ?
-        #
-        # Launches geo_search
-        # and get_extracts if nothing has been loaded
+
+        # If we don't have bound_places_data:
+        #   Launches geo_search()
+        #   if geo_search() does not return False:
+        #       launches get_extracts()
         if not self.bound_places_data:
             if self.geo_search():
                 self.get_extracts()
 
-        # If we get there, we are sure the search has been done
-        # but returned nothing
-        # If self.extracts_data is False:
+        # If the program gets here:
+        # the search has been done but returned nothing.
+        # So, if self.extracts_data is False, returns False
         if not self.extracts_data:
             return False
 
-        #
         # Data structure
         #
         if not self.data:
@@ -266,7 +270,7 @@ class MediaWikiRequest:
                 "extract": results['extract']
             }
 
-            # Url
+            # Url formatting
             filtered_data['url'] = filtered_data['url'].format(
                 app.config['LANG'], page_id)
 
