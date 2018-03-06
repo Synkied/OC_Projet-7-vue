@@ -48,20 +48,24 @@ workon {your_env_name}
 
 ## Installing the dependencies
 ```sh
+cd backend
 pip install -r requirements.txt
 ```
 or (Unix only)
 ```sh
+cd backend
 make init
 ```
 
 # Running the app
 ```sh
+cd backend
 python run.py
 ```
 or (Unix only)
 ```sh
-make init
+cd backend
+make run
 ```
 
 # Known issues
