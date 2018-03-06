@@ -6,9 +6,6 @@
     <h4>{{ messages.title }}</h4>
     <p>{{ messages.subtitle }} {{ randomNumber }}</p>
     <button class="btn" @click="getRandom">{{ messages.button }}</button>
-    <p> {{ test }}</p>
-    <button @click="changeTxt">change</button>
-    <button @click="resetTxt">reset</button>
   </div>
 </template>
 
@@ -49,13 +46,6 @@ export default {
         .catch(error => {
           console.log(error)
         })
-    },
-    changeTxt () {
-      this.test = 'youhou'
-    },
-    resetTxt () {
-      this.test = 'test'
-      this.$emit('testWasChanged', this.test)
     }
   },
   created () {

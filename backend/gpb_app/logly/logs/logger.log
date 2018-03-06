@@ -4977,3 +4977,18 @@ INFO 2018-03-06 16:23:13,048 { module name : _internal Line no : 88}  * Restarti
 WARNING 2018-03-06 16:23:13,486 { module name : _internal Line no : 88}  * Debugger is active!
 INFO 2018-03-06 16:23:13,491 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
 INFO 2018-03-06 16:23:13,498 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 18:48:54,211 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-06 18:48:54,639 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-06 18:48:54,643 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-06 18:48:54,650 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-06 18:48:54,895 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:54] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:54,897 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:54] "GET / HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:54,951 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:54] "GET /static/app/css/app.5bae97063b84237530c6f44aba70176d.css HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:54,967 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:54] "GET /static/app/js/manifest.de7bc7e9cc8cbd113998.js HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,048 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/js/app.62ca379c51af145e5dca.js HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,122 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,220 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/js/1.861c1173971afa2c2b55.js HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,271 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,275 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,403 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-06 18:48:55,593 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 18:48:55] "GET /static/app/assets/favicons/favicon-16x16.png HTTP/1.1" 200 -

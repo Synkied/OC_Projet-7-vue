@@ -4,7 +4,7 @@
 <template>
   <div class="container">
     <gmaps-wiki></gmaps-wiki>
-    <rand-num :test="test" @testWasReset="test = $event"></rand-num>
+    <rand-num></rand-num>
   </div>
 </template>
 
@@ -15,7 +15,7 @@ import RandNum from './randNum'
 export default {
   data () {
     return {
-      test: 'txt'
+      /* datas */
     }
   },
   components: {
