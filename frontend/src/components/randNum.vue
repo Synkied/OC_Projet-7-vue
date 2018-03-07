@@ -4,18 +4,29 @@
 <template>
   <div class="gen_number">
     <h4>{{ messages.title }}</h4>
-    <p>{{ messages.subtitle }} {{ randomNumber }}</p>
-    <button class="btn" @click="getRandom">{{ messages.button }}</button>
+    <p>{{ messages.subtitle }}</p>
+    <transition-group name="list-complete" tag="p">
+      <span
+        v-for="item in items"
+        v-bind:key="item"
+        class="list-complete-item">
+          {{ item }}
+      </span>
+    </transition-group>
+    <button class="btn btn-add" @click="getRandomInt(0, 1000)">{{ messages.addTxt }}</button>
+    <button class="btn btn-remove" @click="remove">{{ messages.removeTxt }}</button>
   </div>
 </template>
 
 <script>
-import axios from 'axios'
 
 var rdmNumsMsgsFr = {
   title: 'EN BONUS',
-  subtitle: 'Générateur de nombres aléatoires :',
-  button: 'Nouveau nombre aléatoire'
+  subtitle: 'Générateur de nombres :',
+  button: 'Nouveau nombre aléatoire',
+  addTxt: 'Ajouter',
+  shuffleTxt: 'Mélanger',
+  removeTxt: 'Enlever'
 }
 
 export default {
@@ -24,32 +35,29 @@ export default {
   },
   data () {
     return {
-      randomNumber: 0,
-      messages: rdmNumsMsgsFr
+      messages: rdmNumsMsgsFr,
+      items: [],
+      nextNum: 1
     }
   },
   methods: {
     getRandomInt (min, max) {
       min = Math.ceil(min)
       max = Math.floor(max)
-      return Math.floor(Math.random() * (max - min + 1)) + min
+      var randInt = Math.floor(Math.random() * (max - min + 1)) + min
+      if (!this.items.includes(randInt)) {
+        this.items.splice(this.randomIndex(), 0, randInt)
+      }
     },
-    getRandom () {
-      this.randomNumber = this.getRandomFromBackend()
+    randomIndex: function () {
+      return Math.floor(Math.random() * this.items.length)
     },
-    getRandomFromBackend () {
-      const path = '/api/random'
-      axios.get(path)
-        .then(response => {
-          this.randomNumber = response.data.randomNumber
-        })
-        .catch(error => {
-          console.log(error)
-        })
+    /* add: function () {
+      this.items.splice(this.randomIndex(), 0, this.nextNum++)
+    }, */
+    remove: function () {
+      this.items.splice(this.randomIndex(), 1)
     }
-  },
-  created () {
-    this.getRandom()
   }
 }
 </script>
@@ -61,9 +69,28 @@ export default {
     margin: 70px 0 0 0;
   }
 
-  .btn:hover {
+  .btn-add:hover {
+    background-color: #fff;
+    color: #000;
+  }
+
+  .btn-remove:hover {
     background-color: #000;
     color: #fff;
+  }
+
+  .list-complete-item {
+    transition: all 1s;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .list-complete-enter, .list-complete-leave-to
+  /* .list-complete-leave-active below version 2.1.8 */ {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  .list-complete-leave-active {
+    position: absolute;
   }
 
 </style>

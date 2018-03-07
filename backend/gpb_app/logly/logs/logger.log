@@ -5086,3 +5086,84 @@ INFO 2018-03-06 22:32:43,924 { module name : _internal Line no : 88} 127.0.0.1 -
 INFO 2018-03-06 22:32:43,926 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 22:32:43] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
 INFO 2018-03-06 22:32:43,927 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 22:32:43] "GET /static/app/js/1.904411c8c8ab0a42109a.js HTTP/1.1" 304 -
 INFO 2018-03-06 22:32:44,119 { module name : _internal Line no : 88} 127.0.0.1 - - [06/Mar/2018 22:32:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 09:23:33,768 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-07 09:23:34,235 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-07 09:23:34,240 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-07 09:23:34,247 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-07 09:25:27,699 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-07 09:25:28,209 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-07 09:25:28,214 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-07 09:25:28,222 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-07 12:56:53,278 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET / HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,280 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,352 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/css/app.fafc6096c2706c9d75d7657230d7bacc.css HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,366 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/js/manifest.f3e6876958d77ae8126a.js HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,437 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,473 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/js/app.e859f90f6a7e733584f8.js HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,846 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,863 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/js/1.904411c8c8ab0a42109a.js HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:53,869 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:53] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:54,318 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:54] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 12:56:54,684 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 12:56:54] "GET /static/app/assets/favicons/favicon-16x16.png HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:35,275 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:35] "GET / HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:35,400 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:35] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:35,414 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:35] "GET /static/app/js/manifest.0c87e6eb4b9e4784704c.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:35,416 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:35] "GET /static/app/css/app.1e55c139abe2d95ce7537af9a404a08b.css HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,239 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /static/app/js/app.e859f90f6a7e733584f8.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,240 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,243 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /robots.txt HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,307 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /static/app/js/1.16ceb68b6a3443e5041d.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,308 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,315 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:41,361 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:41] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:42,810 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:42] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:43,258 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:43] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:44,258 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:44,429 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:44] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:47,139 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET / HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:47,227 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/js/manifest.0c87e6eb4b9e4784704c.js HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,229 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,230 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/js/app.e859f90f6a7e733584f8.js HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,232 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/css/app.1e55c139abe2d95ce7537af9a404a08b.css HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,497 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,499 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/js/1.16ceb68b6a3443e5041d.js HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,501 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-07 14:53:47,697 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:47] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:48,357 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:48,601 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:48,776 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:48,977 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:48] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:53:49,155 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:53:49] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:54:37,575 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:54:37] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:54:37,729 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:54:37] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:55:02,997 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:55:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:55:03,120 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:55:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:55:03,325 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:55:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,469 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET / HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,559 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/css/app.53b1eabed2426740095abd20974e08be.css HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,562 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/js/manifest.0ddbfc8573a5a23e521a.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,564 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/js/app.e859f90f6a7e733584f8.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,566 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,871 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,872 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/js/1.9bbd4443b8370365faa5.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:00,893 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:00] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:01,150 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:01] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:02,186 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:02,351 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:02,500 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:02] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:03,483 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:03,656 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:03] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:21,629 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:21] "GET / HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:21,756 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:21] "GET /static/app/css/app.a62782b5ae35b97be8956bb6a9b6c890.css HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:21,768 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:21] "GET /static/app/js/manifest.50402d99ddb5726b2f25.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:21,771 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:21] "GET /static/app/js/app.e859f90f6a7e733584f8.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:21,876 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:21] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,089 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /static/app/js/0.3dc672e56316f01bad9e.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,117 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /static/app/js/1.1ce46f0acad8334a408c.js HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,121 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,289 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,482 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js.map HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:22,835 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:22] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:31,586 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:31] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:31,734 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:31] "GET /api/random HTTP/1.1" 200 -
+INFO 2018-03-07 14:56:31,885 { module name : _internal Line no : 88} 127.0.0.1 - - [07/Mar/2018 14:56:31] "GET /api/random HTTP/1.1" 200 -
