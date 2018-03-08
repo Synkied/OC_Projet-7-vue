@@ -28,11 +28,3 @@ def send_query(query):
     processed_query = question.QuestionHandler(query)
     answer = processed_query.to_output()
     return jsonify(answer)
-
-
-@app.route('/api/random')
-def random_number():
-    response = {
-        'randomNumber': randint(1, 100)
-    }
-    return jsonify(response)

@@ -1,2 +1,0 @@
-flask: gunicorn --pythonpath backend gpb_app.app
-node: node ./server.js

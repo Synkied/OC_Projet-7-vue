@@ -38,13 +38,13 @@
           </div>
       </template>
       <template v-else-if="status === 'NOTHING_FOUND'">
-          <p><strong>{{ messages.nothing_found }}</strong></p>
+          <h3 class="white-txt"><strong>{{ messages.nothing_found }}</strong></h3>
       </template>
       <template v-else-if="status === 'NO_QUERY'">
-          <p class="white-txt"><strong>{{ messages.no_query }}</strong></p>
+          <h3 class="white-txt"><strong>{{ messages.no_query }}</strong></h3>
       </template>
       <template v-else>
-          <p><strong>{{ messages.no_response }}</strong></p>
+          <h3 class="white-txt"><strong>{{ messages.no_response }}</strong></h3>
       </template>
     </div>
   </div>

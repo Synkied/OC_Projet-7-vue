@@ -33,7 +33,7 @@ class TestQuestionHandler:
         assert(self.mediawikirequest != self.original_query)
         # print('\n' + self.query.parse(), '\n' + self.original_query)
 
-    def test_to_json(self, monkeypatch):
+    def test_to_output(self, monkeypatch):
         """
         :Test success conditions:
         The Extracts API returns a JSON result fitting expectations.
@@ -45,7 +45,7 @@ class TestQuestionHandler:
         monkeypatch.setattr(urllib.request, 'urlopen', mockreturn)
         # assert self.mediawiki_mock_data == self.mediawikirequest.to_json()
         print(self.mediawiki_mock_data)
-        print(self.mediawikirequest.to_json())
+        print(self.mediawikirequest.to_output())
 
 
 if __name__ == "__main__":
