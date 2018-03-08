@@ -1,0 +1,138 @@
+%!Adobe-FontList 1.18
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AddervilleITCStd-Book
+FamilyName:Adderville ITC Std
+StyleName:Book
+FullName:Adderville ITC Std Book
+MenuName:Adderville ITC Std Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\AddervilleITCStd Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:37108
+FileModTime:1356515618
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adderville ITC Std Book
+NameArray:0,Win,1,Adderville ITC Std Book
+NameArray:0,Win,16,Adderville ITC Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeue
+FamilyName:Bebas Neue
+StyleName:Regular
+FullName:Bebas Neue
+MenuName:Bebas Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\BebasNeue.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:45572
+FileModTime:1330502760
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Bold
+FamilyName:Helvetica LT Std
+StyleName:Bold
+FullName:Helvetica LT Std Bold
+MenuName:Helvetica LT Std
+StyleBits:2
+FamilyNameNative:Helvetica LT Std
+StyleNameNative:Bold
+FullNameNative:Helvetica LT Std Bold
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\HelveticaLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:45616
+FileModTime:1188187708
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Helvetica LT Std Bold
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Obl
+FamilyName:Helvetica LT Std
+StyleName:Oblique
+FullName:Helvetica LT Std Oblique
+MenuName:Helvetica LT Std
+StyleBits:1
+FamilyNameNative:Helvetica LT Std
+StyleNameNative:Oblique
+FullNameNative:Helvetica LT Std Oblique
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\HelveticaLTStd-Obl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:43984
+FileModTime:1188187708
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std Obl
+NameArray:0,Mac,4,Helvetica LT Std Oblique
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Roman
+FamilyName:Helvetica LT Std
+StyleName:Roman
+FullName:Helvetica LT Std Roman
+MenuName:Helvetica LT Std
+StyleBits:0
+FamilyNameNative:Helvetica LT Std
+StyleNameNative:Roman
+FullNameNative:Helvetica LT Std Roman
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\HelveticaLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:45420
+FileModTime:1188187708
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std
+NameArray:0,Mac,4,Helvetica LT Std Roman
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
