@@ -1,6 +1,0 @@
-backend/.pytest_cache
-backend/__pycache__/
-backend/projet_7.sublime-project
-backend/projet_7.sublime-workspace
-tests.py
-backend/gbp_app/logly/logs
