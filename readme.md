@@ -67,3 +67,7 @@ or (Unix only)
 cd backend
 make run
 ```
+
+# MAC OS X Issues
+Remember to navigate to Applications/Python x.x (where x.x is your version) and double click on "Install Certificates.command" to install certificates
+
