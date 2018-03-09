@@ -5252,3 +5252,18 @@ INFO 2018-03-09 11:45:34,267 { module name : _internal Line no : 88} 127.0.0.1 -
 INFO 2018-03-09 11:45:34,279 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:45:34] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 200 -
 INFO 2018-03-09 11:45:34,282 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:45:34] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 200 -
 INFO 2018-03-09 11:45:39,863 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:45:39] "GET /static/app/css/app.15cfce156a5bd4b9ee7d3896f43d7952.css.map HTTP/1.1" 200 -
+INFO 2018-03-09 11:51:59,727 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-09 11:52:00,154 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-09 11:52:00,160 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-09 11:52:00,167 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-09 11:52:01,823 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:01] "GET / HTTP/1.1" 200 -
+INFO 2018-03-09 11:52:02,219 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/css/app.15cfce156a5bd4b9ee7d3896f43d7952.css HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,220 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/js/manifest.6d02683e8bb13e4bbc01.js HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,222 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/js/vendor.0f363f9bc2a455d17461.js HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,224 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/js/app.197e3e64fcc92557be1d.js HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,573 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/js/0.7ef3591ad5e990124f71.js HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,575 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/js/1.66a8d8d7ee5d9a210f14.js HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:02,603 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:02] "GET /static/app/img/logo.1fa28e4.png HTTP/1.1" 304 -
+INFO 2018-03-09 11:52:09,283 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:09] "GET /question/Hello%20Grandpy%20!%20Donne%20moi%20l'adresse%20d'OpenClassrooms%20stp%20! HTTP/1.1" 200 -
+INFO 2018-03-09 11:52:09,386 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:09] "GET /static/app/js/1.66a8d8d7ee5d9a210f14.js.map HTTP/1.1" 200 -
+INFO 2018-03-09 11:52:14,341 { module name : _internal Line no : 88} 127.0.0.1 - - [09/Mar/2018 11:52:14] "GET /question/14%20rue%20thomas%20francine HTTP/1.1" 200 -
