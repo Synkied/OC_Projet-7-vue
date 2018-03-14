@@ -44,7 +44,7 @@ module.exports = {
   },
 
   build: {
-    // Template for index.html
+    // Template for app.html
     index: path.resolve(__dirname, '../../backend/gpb_app/templates/app.html'),
 
     // Paths

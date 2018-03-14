@@ -4,7 +4,9 @@
 <template>
   <div>
     <app-header></app-header>
-    <router-view/> <!-- https://router.vuejs.org/en/api/router-view.html -->
+    <router-view/> <!-- https://router.vuejs.org/en/api/router-view.html
+    renders Home.vue or NotFound.vue depending on the context -->
+
     <app-footer></app-footer>
   </div>
 </template>

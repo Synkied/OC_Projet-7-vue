@@ -178,6 +178,10 @@ class MediaWikiRequest:
 
     def get_extracts(self):
         """
+        Get random extracts from the MediaWiki API for a given place.
+        Uses bound_places_data (returned by geo_search()) to iterate
+        over the returned extracts and choose one randomly.
+        Returns a dict of the WikiMedia API json response
         :returns: dict or False (bool)
         """
 
@@ -263,11 +267,12 @@ class MediaWikiRequest:
                 self.random_place]['pageid']
             results = self.extracts_data['query']['pages'][str(page_id)]
 
+            # filter the data from the extracts_data json response
             filtered_data = {
                 "title": results['title'],
                 "pageid": results['pageid'],
                 "url": "https://{}.wikipedia.org/?curid={}",
-                "extract": results['extract']
+                "extract": results['extract'],
             }
 
             # Url formatting
