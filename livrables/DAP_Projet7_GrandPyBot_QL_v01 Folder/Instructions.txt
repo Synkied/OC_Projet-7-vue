@@ -1,10 +1,10 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: DAP_Projet6_OC-Pizza_Solution-technique_QL_v01.indd
+PUBLICATION NAME: DAP_Projet7_GrandPyBot_QL_v01.indd
 
-PACKAGE DATE: 28/01/2018 12:22
-Creation Date: 28/01/2018
-Modification Date: 28/01/2018
+PACKAGE DATE: 15/03/2018 13:27
+Creation Date: 15/03/2018
+Modification Date: 15/03/2018
 
 CONTACT INFORMATION
 
@@ -28,16 +28,14 @@ SPECIAL INSTRUCTIONS AND OTHER NOTES
 
 
 External Plug-ins 0
-Non Opaque Objects :On PageNA, PB, 1, 3, 4, 5, 6, 13, 14, 15, 16, 17, 18, A
+Non Opaque Objects :On PageNA, PB, 1, A
 
 FONTS
-6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
 Fonts Packaged
-- Name: AddervilleITCStd-Book; Type: OpenType Type 1, Status: OK
 - Name: BebasNeue; Type: OpenType Type 1, Status: OK
 - Name: HelveticaLTStd-Bold; Type: OpenType Type 1, Status: OK
-- Name: HelveticaLTStd-Obl; Type: OpenType Type 1, Status: OK
 - Name: HelveticaLTStd-Obl; Type: OpenType Type 1, Status: OK
 - Name: HelveticaLTStd-Roman; Type: OpenType Type 1, Status: OK
 
@@ -53,8 +51,8 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 38 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 0 Embedded, 38 use RGB color space
+Links and Images: 5 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 5 use RGB color space
 
 
 PRINT SETTINGS
@@ -84,11 +82,10 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. DAP_Projet6_OC-Pizza_Solution-technique_QL_v01.indd; type: Adobe InDesign publication; size: 5760K
-2. DAP_Projet6_OC-Pizza_Solution-technique_QL_v01.idml; type: InDesign Markup Document; size: 197K
-3. DAP_Projet6_OC-Pizza_Solution-technique_QL_v01.pdf; type: Adobe Acrobat Document; size: 452K
-4. AddervilleITCStd Book.otf; type: Font file; size: 36K
-5. BebasNeue.otf; type: Font file; size: 44K
-6. HelveticaLTStd-Bold.otf; type: Font file; size: 44K
-7. HelveticaLTStd-Obl.otf; type: Font file; size: 42K
-8. HelveticaLTStd-Roman.otf; type: Font file; size: 44K
+1. DAP_Projet7_GrandPyBot_QL_v01.indd; type: Adobe InDesign publication; size: 3520K
+2. DAP_Projet7_GrandPyBot_QL_v01.idml; type: InDesign Markup Document; size: 79K
+3. DAP_Projet7_GrandPyBot_QL_v01.pdf; type: Adobe Acrobat Document; size: 110K
+4. BebasNeue.otf; type: Font file; size: 44K
+5. HelveticaLTStd-Bold.otf; type: Font file; size: 44K
+6. HelveticaLTStd-Obl.otf; type: Font file; size: 42K
+7. HelveticaLTStd-Roman.otf; type: Font file; size: 44K

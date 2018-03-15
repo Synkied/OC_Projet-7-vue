@@ -4,31 +4,6 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Type1
-FontName:AddervilleITCStd-Book
-FamilyName:Adderville ITC Std
-StyleName:Book
-FullName:Adderville ITC Std Book
-MenuName:Adderville ITC Std Book
-StyleBits:0
-WritingScript:Roman
-OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_7_vue\livrables\DAP_Projet7_GrandPyBot_QL_v01 Folder\Document fonts\AddervilleITCStd Book.otf
-DataFormat:sfntData
-UsesStandardEncoding:yes
-isCFF:yes
-hasSVG:no
-FileLength:37108
-FileModTime:1356515618
-WeightClass:400
-WidthClass:5
-AngleClass:0
-NameArray:0,Mac,4,Adderville ITC Std Book
-NameArray:0,Win,1,Adderville ITC Std Book
-NameArray:0,Win,16,Adderville ITC Std
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Type1
 FontName:BebasNeue
 FamilyName:Bebas Neue
 StyleName:Regular
@@ -42,7 +17,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:45572
-FileModTime:1330502760
+FileModTime:1520558776
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -69,7 +44,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:45616
-FileModTime:1188187708
+FileModTime:1520558776
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -97,7 +72,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:43984
-FileModTime:1188187708
+FileModTime:1520558776
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -126,7 +101,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:45420
-FileModTime:1188187708
+FileModTime:1520558776
 WeightClass:400
 WidthClass:5
 AngleClass:0
