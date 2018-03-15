@@ -262,3 +262,8 @@ INFO 2018-03-15 12:19:40,808 { module name : _internal Line no : 88}  * Restarti
 WARNING 2018-03-15 12:19:41,348 { module name : _internal Line no : 88}  * Debugger is active!
 INFO 2018-03-15 12:19:41,353 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
 INFO 2018-03-15 12:19:41,360 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2018-03-15 12:28:52,061 { module name : _internal Line no : 88}  * Detected change in 'C:\\Users\\PC\\Desktop\\projets_OC\\projet_7_vue\\backend\\gpb_app\\app.py', reloading
+INFO 2018-03-15 12:28:52,092 { module name : _internal Line no : 88}  * Restarting with stat
+WARNING 2018-03-15 12:28:52,589 { module name : _internal Line no : 88}  * Debugger is active!
+INFO 2018-03-15 12:28:52,594 { module name : _internal Line no : 88}  * Debugger PIN: 302-098-345
+INFO 2018-03-15 12:28:52,601 { module name : _internal Line no : 88}  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
